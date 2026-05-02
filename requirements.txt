@@ -1,0 +1,7 @@
+fastapi
+langchain
+streamlit
+faiss-cpu
+openai
+langchain-ollama
+langchain-community
