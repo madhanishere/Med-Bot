@@ -1,0 +1,30 @@
+Role: Patient
+Visitor: Documents required for admission
+Bot: 
+
+All OP registration documents and Attendant/guardian ID proof are required for admission.
+----------------------------------------
+Role: Visitor
+Visitor: where is the insurance desk
+Bot: 
+
+The insurance desk is located on the ground floor of Block A, near the main reception.
+----------------------------------------
+Role: Visitor
+Visitor: who are the accepted Insurance Providers?
+Bot: 
+
+The accepted Insurance Providers are: Star Health Insurance, New India Assurance, United India Insurance, and ICICI Lombard Health Insurance.
+----------------------------------------
+Role: Visitor
+Visitor: op timings
+Bot: 
+
+The general outpatient (OP) hours are from 8:00 AM to 8:00 PM on Monday through Saturday. On Sundays, only Emergency cases are available between 9:00 AM and 1:00 PM.
+----------------------------------------
+Role: Visitor
+Visitor: What are the visiting hours?
+Bot: 
+
+The visiting hours are from 10:00 AM to 12:00 PM and 5:00 PM to 7:00 PM for general visitors. For those in the ICU, the visiting hours are strictly limited to 11:00 AM to 11:30 AM and 5:00 PM to 5:30 PM.
+----------------------------------------

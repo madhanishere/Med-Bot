@@ -1,20 +1,16 @@
 import requests
-import streamlit as st
-
 
 API_URL = "http://localhost:8000"
 
-def get_chat_response(question: str) -> str:
-    """Sends the user's question to the FastAPI backend and returns the answer."""
+def get_chat_response(question: str, role: str) -> str:
+    """Sends the user's question and role to the FastAPI backend."""
     try:
         response = requests.post(
             f"{API_URL}/chat",
-            json={"question": question}
+            json={"question": question, "role": role}  # Added role here
         )
-        response.raise_for_status() 
+        response.raise_for_status()
         data = response.json()
-        return data.get("answer", "Error: No answer received from server.")
-    except requests.exceptions.ConnectionError:
-        return "Error: Could not connect to the backend API. Is your FastAPI server running?"
+        return data.get("answer", "Error: No answer received.")
     except Exception as e:
-        return f"An unexpected error occurred: {e}"
+        return f"Error: {e}"
