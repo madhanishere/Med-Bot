@@ -7,7 +7,7 @@ def get_chat_response(question: str, role: str) -> str:
     try:
         response = requests.post(
             f"{API_URL}/chat",
-            json={"question": question, "role": role}  # Added role here
+            json={"question": question, "role": role}
         )
         response.raise_for_status()
         data = response.json()

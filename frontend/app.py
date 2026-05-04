@@ -1,15 +1,14 @@
 import streamlit as st
 from api_client import get_chat_response
 
-st.set_page_config(page_title="Hospital FAQ Bot", page_icon="🏥", layout="centered")
+st.set_page_config(page_title="Med-Bot", layout="centered")
 
-# --- NEW: Pop-up Modal for Role Selection ---
-@st.dialog("Welcome to the Hospital FAQ Bot")
+@st.dialog("Welcome Med-Bot")
 def role_selection_modal():
     st.markdown("### Who are you today?")
     st.write("Please select your role so I can tailor my assistance to you:")
     
-    # Create a nice 2x2 grid of buttons for the roles
+    
     col1, col2 = st.columns(2)
     
     with col1:
@@ -34,23 +33,18 @@ def role_selection_modal():
             st.session_state.messages = [{"role": "assistant", "content": "Hello! I am ready to assist you as an Admin. How can I help?"}]
             st.rerun()
 
-# --- Intercept the user if they haven't picked a role ---
 if "current_role" not in st.session_state:
     role_selection_modal()
-    st.stop() # This hides the rest of the chat UI until they make a choice!
+    st.stop()
 
-# --- Sidebar ---
 st.sidebar.title("User Profile")
 st.sidebar.markdown(f"**Current Role:** `{st.session_state.current_role}`")
-
-# Give them a way to trigger the pop-up again if they made a mistake
 if st.sidebar.button("Change Role"):
     del st.session_state.current_role
     st.rerun()
 
 
 
-# --- Main UI ---
 st.title("🏥 Hospital Assistant")
 st.markdown(f"**Chatting as:** `{st.session_state.current_role}`")
 
