@@ -1,8 +1,8 @@
 from fastapi import APIRouter, HTTPException, Request
 from pydantic import BaseModel
 import os
-from backend.services.knowledge_base import rebuild_knowledge_base
-from backend.services.rag_engine import setup_rag_chain
+from services.knowledge_base import rebuild_knowledge_base
+from services.rag_engine import setup_rag_chain
 
 router = APIRouter(tags=["Knowledge Base"])
 

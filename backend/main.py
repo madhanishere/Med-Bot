@@ -15,7 +15,7 @@ app.state.rag_chain = None
 
 @app.on_event("startup")
 async def startup_event():
-    db_path = os.path.join("..", "data", "vector_store")
+    db_path = os.path.join("..", "data", "vector_store", "faiss_index")
     embeddings = OllamaEmbeddings(model="mxbai-embed-large")
     
     if os.path.exists(db_path):
