@@ -1,0 +1,16 @@
+[theme]
+base = "light"
+
+# Black accents
+primaryColor = "#000000"
+
+# Pure white background
+backgroundColor = "#FFFFFF"
+
+# Subtle light gray for the sidebar (or use #FFFFFF for pure white)
+secondaryBackgroundColor = "#F4F4F4"
+
+# Pitch black text
+textColor = "#000000"
+
+font = "monospace"
