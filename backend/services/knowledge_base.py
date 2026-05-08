@@ -1,47 +1,63 @@
 import os
-import glob
-from langchain_community.document_loaders import TextLoader, PyPDFLoader
-from langchain_text_splitters import RecursiveCharacterTextSplitter
-from langchain_ollama import OllamaEmbeddings
+import shutil
+
 from langchain_community.vectorstores import FAISS
+from langchain_huggingface import HuggingFaceEmbeddings
+from langchain_community.document_loaders import PyPDFLoader, TextLoader
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 
-DATA_DIR = os.path.join("..", "data")
-DOCS_DIR = os.path.join(DATA_DIR, "raw_documents")
-DB_PATH = os.path.join(DATA_DIR, "vector_store")
-EMBEDDING_MODEL = "mxbai-embed-large"
-
-def load_all_documents(directory_path: str = DOCS_DIR):
-    print(f"[*] Scanning directory for raw documents: {directory_path}")   
-    documents = []
-    
-    for filepath in glob.glob(os.path.join(directory_path, "*.txt")):
-        loader = TextLoader(filepath)
-        documents.extend(loader.load())
-        
-    for filepath in glob.glob(os.path.join(directory_path, "*.pdf")):
-        loader = PyPDFLoader(filepath)
-        documents.extend(loader.load())
-        
-    if not documents:
-        return None
-        
-    text_splitter = RecursiveCharacterTextSplitter(chunk_size=150, chunk_overlap=30)
-    return text_splitter.split_documents(documents)
-
-def create_vector_store(chunks):
-    print(f"[*] Generating embeddings using mxbai-embed-large...")
-    print(f"[*] Building FAISS vector database from {len(chunks)} chunks...")
-    embeddings = OllamaEmbeddings(model=EMBEDDING_MODEL)
-    vector_store = FAISS.from_documents(chunks, embeddings)
-    
-    vector_store.save_local(DB_PATH)
-    print(f"[+] SUCCESS: FAISS database saved to {DB_PATH}")
-    return vector_store
 
 def rebuild_knowledge_base():
-    """Triggered by the Admin panel to rebuild the DB when new files are uploaded."""
-    chunks = load_all_documents()
-    
-    if chunks:
-        return create_vector_store(chunks)
-    return None
+
+    BASE_DIR = os.path.dirname(
+        os.path.dirname(
+            os.path.dirname(os.path.abspath(__file__))
+        )
+    )
+
+    raw_docs_dir = os.path.join(BASE_DIR, "data", "raw_documents")
+    db_path = os.path.join(BASE_DIR, "data", "vector_store")
+
+    if os.path.exists(db_path):
+        shutil.rmtree(db_path)
+
+    documents = []
+
+    for filename in os.listdir(raw_docs_dir):
+
+        file_path = os.path.join(raw_docs_dir, filename)
+
+        if filename.endswith(".pdf"):
+            loader = PyPDFLoader(file_path)
+            documents.extend(loader.load())
+
+        elif filename.endswith(".txt"):
+            loader = TextLoader(file_path, encoding="utf-8")
+            documents.extend(loader.load())
+
+    if not documents:
+        print("No documents found.")
+        return None
+
+    text_splitter = RecursiveCharacterTextSplitter(
+        chunk_size=1000,
+        chunk_overlap=200
+    )
+
+    chunks = text_splitter.split_documents(documents)
+
+    embeddings = HuggingFaceEmbeddings(
+        model_name="sentence-transformers/all-MiniLM-L6-v2"
+    )
+
+    vector_store = FAISS.from_documents(chunks, embeddings)
+
+    vector_store.save_local(db_path)
+
+
+
+    return vector_store
+
+
+if __name__ == "__main__":
+    rebuild_knowledge_base()
