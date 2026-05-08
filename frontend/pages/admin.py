@@ -4,21 +4,15 @@ import pandas as pd
 import sqlite3
 import os
 
-st.set_page_config(page_title="Knowledge Base Admin")
-
-
+st.set_page_config(page_title="Admin Panel")
 monochrome_brutalism_css = """
 <style>
 
     #MainMenu {visibility: hidden;}
     footer {visibility: hidden;}
-
-
     * {
         font-weight: 700 !important;
     }
-
-
     .stButton > button, 
     [data-testid="stFormSubmitButton"] button {
         background-color: #FFFFFF !important; 
@@ -118,52 +112,65 @@ monochrome_brutalism_css = """
 </style>
 """
 
+st.title("Admin Panel")
+
 st.markdown(monochrome_brutalism_css, unsafe_allow_html=True)
 
-st.title("Admin Panel")
 if "logged_in" not in st.session_state:
     st.session_state.logged_in = False
-
-if not st.session_state.logged_in:
-
     
+    
+if not st.session_state.logged_in:
     with st.form("login_form"):
         username = st.text_input("Username")
         password = st.text_input("Password", type="password")
         submit_button = st.form_submit_button("Log In")
-        
+
         if submit_button:
             try:
                 response = requests.post(
                     "http://localhost:8000/login",
-                    json={"username": username, "password": password}
+                    json={"username": username, "password": password},
                 )
-                
+
                 if response.status_code == 200:
                     st.session_state.logged_in = True
-                    st.rerun() 
+                    st.rerun()
                 else:
                     st.error("❌ Invalid username or password.")
             except Exception as e:
                 st.error(f"Cannot connect to server. Is FastAPI running? Error: {e}")
 
 else:
-    col1, col2 = st.columns([4, 1])
-    with col2:
-        if st.button("Logout"):
-            st.session_state.logged_in = False
-            st.rerun()
-            
-    st.markdown("Upload new `.txt` or `.pdf` documents to update the hospital's knowledge base.")
+    col1, col2, col3 = st.columns([3, 1, 2])
 
+    with col1:
+        st.subheader("                                            ")
+
+
+    with col3:
+        st.subheader("                                            ")
+
+    st.markdown("### Upload Documents")   
+    st.markdown("Add new documents to the knowledge base.") 
     uploaded_file = st.file_uploader("Select a document", type=["txt", "pdf"])
-
+    
     if st.button("Upload and Train"):
         if uploaded_file is not None:
-            with st.spinner("Uploading and retraining database... This may take a moment."):
+            with st.spinner(
+                "Uploading and retraining database... This may take a moment."
+            ):
                 try:
-                    files = {"file": (uploaded_file.name, uploaded_file.getvalue(), uploaded_file.type)}
-                    response = requests.post("http://localhost:8000/upload", files=files)
+                    files = {
+                        "file": (
+                            uploaded_file.name,
+                            uploaded_file.getvalue(),
+                            uploaded_file.type,
+                        )
+                    }
+                    response = requests.post(
+                        "http://localhost:8000/upload", files=files
+                    )
                     response.raise_for_status()
                     st.success(response.json()["message"])
                 except Exception as e:
@@ -175,19 +182,19 @@ else:
 
     st.subheader("Quick Content Update")
     st.markdown("Directly type new hospital rules, visiting hours, or FAQs here.")
-    
+
     with st.form("quick_update_form", clear_on_submit=True):
         new_content = st.text_area("New Knowledge Base Content", height=150)
-        
+
         submit_update = st.form_submit_button("Add to Knowledge Base")
-        
+
         if submit_update:
             if new_content.strip():
                 with st.spinner("Learning new information..."):
                     try:
                         response = requests.post(
                             "http://localhost:8000/update-faq",
-                            json={"content": new_content}
+                            json={"content": new_content},
                         )
                         response.raise_for_status()
                         st.success(response.json()["message"])
@@ -201,20 +208,21 @@ if st.session_state.logged_in:
     st.markdown("### Chat Logs")
     st.write("Review recent questions asked by users.")
 
-    if st.button("Refresh Logs", key="refresh_chat_logs_btn"):
-        db_path = os.path.join("..", "data", "chat_logs.db")
-        
-        if os.path.exists(db_path):
+    
+    db_path = os.path.join("..", "data", "chat_logs.db")
+
+    if os.path.exists(db_path):
             conn = sqlite3.connect(db_path)
             query = "SELECT timestamp, role, question, answer FROM chat_logs ORDER BY timestamp DESC"
             df = pd.read_sql_query(query, conn)
             conn.close()
-            
-            st.dataframe(
-                df, 
-                use_container_width=True, 
-                hide_index=True,
-                height=400 
-            )
-        else:
-            st.info("No chat logs found")
+
+            st.dataframe(df, use_container_width=True, hide_index=True, height=400)
+    else:
+            st.info("No chat logs found")    
+
+if st.session_state.logged_in:
+
+            if st.button("Logout"):
+                st.session_state.logged_in = False
+                st.rerun()
