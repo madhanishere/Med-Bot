@@ -1,0 +1,372 @@
+## DOCTOR RECOMMENDATION KNOWLEDGE BASE
+## Purpose: Match patient symptoms to the correct doctor
+
+=============================================================
+INSTRUCTION FOR AI/SYSTEM:
+When a patient describes their health problem, match their
+symptoms to the correct department and return the doctor name,
+specialization, and availability.
+=============================================================
+
+-----------------------------------------------------------
+SYMPTOM GROUP 1: HEART & CHEST PROBLEMS
+-----------------------------------------------------------
+Symptoms: chest pain, chest tightness, heart attack, shortness of breath,
+          breathlessness, palpitations, irregular heartbeat, racing heart,
+          high blood pressure, hypertension, swollen legs, ankle swelling,
+          fatigue on walking, dizziness with chest pain, angina, cardiac arrest
+
+→ Department: CARDIOLOGY
+
+Doctor 1: Dr. Ramesh Krishnamurthy
+  Role: Senior Consultant Cardiologist
+  Best for: Chest pain, heart attack, angioplasty, heart failure, serious cardiac conditions
+  Available: Monday, Wednesday, Friday — 9:00 AM to 1:00 PM
+  Fee: ₹800
+
+Doctor 2: Dr. Meenakshi Sundaram
+  Role: Consultant Cardiologist
+  Best for: High blood pressure, preventive heart care, echo tests, cardiac rehab
+  Available: Monday, Wednesday, Friday — 9:00 AM to 1:00 PM
+  Fee: ₹600
+
+-----------------------------------------------------------
+SYMPTOM GROUP 2: BRAIN & NERVE PROBLEMS
+-----------------------------------------------------------
+Symptoms: headache, severe headache, migraine, dizziness, vertigo,
+          numbness in hands or legs, tingling, weakness in limbs,
+          seizures, epilepsy, fits, fainting, stroke, facial drooping,
+          memory loss, forgetfulness, confusion, tremors, shaking hands,
+          Parkinson's, difficulty walking, slurred speech, sleep problems,
+          insomnia, difficulty concentrating, dementia, Alzheimer's
+
+→ Department: NEUROLOGY
+
+Doctor 1: Dr. Venkataraman Iyer
+  Role: Head of Neurology & Senior Consultant
+  Best for: Epilepsy, seizures, stroke, Parkinson's, serious neurological conditions
+  Available: Tuesday, Thursday — 10:00 AM to 2:00 PM
+  Fee: ₹800
+
+Doctor 2: Dr. Lakshmi Priya Narayanan
+  Role: Consultant Neurologist
+  Best for: Migraines, sleep disorders, dementia, memory problems, MS
+  Available: Tuesday, Thursday — 10:00 AM to 2:00 PM
+  Fee: ₹600
+
+-----------------------------------------------------------
+SYMPTOM GROUP 3: BONE, JOINT & MUSCLE PROBLEMS
+-----------------------------------------------------------
+Symptoms: joint pain, knee pain, knee swelling, hip pain, back pain,
+          lower back pain, neck pain, spine problem, slipped disc,
+          shoulder pain, elbow pain, wrist pain, fracture, broken bone,
+          sports injury, ligament tear, ACL tear, arthritis, stiff joints,
+          difficulty walking, limping, muscle pain, bone pain,
+          flat feet, limb deformity in children
+
+→ Department: ORTHOPEDICS
+
+Doctor 1: Dr. Subramaniam Rajendran
+  Role: Senior Consultant Orthopedic Surgeon
+  Best for: Knee/hip replacement, spine surgery, arthritis, chronic joint pain
+  Available: Monday to Saturday — 9:00 AM to 5:00 PM
+  Fee: ₹700
+
+Doctor 2: Dr. Anand Balakrishnan
+  Role: Consultant Orthopedic Surgeon
+  Best for: Fractures, sports injuries, ligament tears, pediatric bone problems
+  Available: Monday to Saturday — 9:00 AM to 5:00 PM
+  Fee: ₹600
+
+-----------------------------------------------------------
+SYMPTOM GROUP 4: CHILDREN'S HEALTH PROBLEMS
+-----------------------------------------------------------
+Symptoms: fever in child, cold in child, cough in child, vomiting in child,
+          diarrhea in child, stomach ache in child, child not eating,
+          child weight loss, newborn care, premature baby, low birth weight,
+          delayed walking, delayed talking, delayed milestones,
+          child nutrition, vaccination, immunization, child asthma,
+          child allergies, growth problems, childhood infections
+
+→ Department: PEDIATRICS
+
+Doctor 1: Dr. Kavitha Murugesan
+  Role: Senior Consultant Pediatrician
+  Best for: Newborn care, neonatal issues, infections, child nutrition, development
+  Available: Monday to Saturday — 8:00 AM to 6:00 PM
+  Fee: ₹600
+
+Doctor 2: Dr. Sathyanarayanan Pillai
+  Role: Consultant Pediatrician
+  Best for: Vaccination, fever, cough, cold, growth monitoring, asthma in children
+  Available: Monday to Saturday — 8:00 AM to 6:00 PM
+  Fee: ₹500
+
+-----------------------------------------------------------
+SYMPTOM GROUP 5: WOMEN'S HEALTH PROBLEMS
+-----------------------------------------------------------
+Symptoms: pregnancy, pregnant, ante-natal checkup, delivery, C-section,
+          irregular periods, missed periods, heavy periods, painful periods,
+          PCOS, polycystic ovary, white discharge, vaginal infection,
+          infertility, unable to conceive, fibroid, ovarian cyst,
+          menopause, hormonal imbalance, pelvic pain, high-risk pregnancy,
+          multiple pregnancy, gestational diabetes, uterus problems
+
+→ Department: GYNECOLOGY & OBSTETRICS
+
+Doctor 1: Dr. Rajalakshmi Chandrasekaran
+  Role: Senior Consultant Gynaecologist & Obstetrician
+  Best for: High-risk pregnancy, infertility, PCOS, fibroids, laparoscopic surgery
+  Available: Monday to Saturday — 9:00 AM to 4:00 PM
+  Fee: ₹700
+
+Doctor 2: Dr. Deepa Nanthakumar
+  Role: Consultant Obstetrician
+  Best for: Normal pregnancy, ante-natal care, delivery, PCOS management
+  Available: Monday to Saturday — 9:00 AM to 4:00 PM
+  Fee: ₹500
+
+-----------------------------------------------------------
+SYMPTOM GROUP 6: SKIN, HAIR & NAIL PROBLEMS
+-----------------------------------------------------------
+Symptoms: skin rash, itching, skin allergy, redness on skin, acne, pimples,
+          eczema, psoriasis, dry skin, fungal infection, ringworm,
+          hair fall, hair loss, baldness, dandruff, scalp infection,
+          nail problems, brittle nails, warts, dark spots, pigmentation,
+          skin tag, mole concern, urticaria, hives, wound not healing
+
+→ Department: DERMATOLOGY
+
+Doctor: Dr. Senthilkumar Arumugam
+  Role: Senior Consultant Dermatologist
+  Best for: Skin allergy, acne, psoriasis, hair loss, cosmetic skin care
+  Available: Tuesday, Thursday, Saturday — 10:00 AM to 1:00 PM
+  Fee: ₹600
+
+-----------------------------------------------------------
+SYMPTOM GROUP 7: EAR, NOSE & THROAT PROBLEMS
+-----------------------------------------------------------
+Symptoms: ear pain, ear infection, ear discharge, hearing loss, ringing in ears,
+          tinnitus, blocked ear, blocked nose, runny nose, sinus pain,
+          sinusitis, nasal polyp, snoring, sleep apnea, throat pain,
+          sore throat, tonsillitis, difficulty swallowing, voice change,
+          hoarseness, adenoids, frequent cold, post-nasal drip
+
+→ Department: ENT (Ear, Nose & Throat)
+
+Doctor: Dr. Balasubramanian Natarajan
+  Role: Senior Consultant ENT Surgeon
+  Best for: Ear infections, sinus surgery, cochlear implants, voice disorders, snoring
+  Available: Monday, Wednesday, Friday — 9:00 AM to 12:00 PM
+  Fee: ₹600
+
+-----------------------------------------------------------
+SYMPTOM GROUP 8: EYE PROBLEMS
+-----------------------------------------------------------
+Symptoms: blurry vision, poor vision, eye pain, eye redness, watery eyes,
+          eye infection, conjunctivitis, itchy eyes, cataract, cloudy vision,
+          glaucoma, increased eye pressure, diabetic eye problems,
+          retinal problems, floaters, flashes of light, double vision,
+          squint, lazy eye, need for spectacles, LASIK inquiry
+
+→ Department: OPHTHALMOLOGY
+
+Doctor: Dr. Vijayalakshmi Rajan
+  Role: Senior Consultant Ophthalmologist
+  Best for: Cataract, glaucoma, retinal diseases, diabetic eye care, LASIK
+  Available: Monday to Friday — 10:00 AM to 3:00 PM
+  Fee: ₹600
+
+-----------------------------------------------------------
+SYMPTOM GROUP 9: MENTAL HEALTH PROBLEMS
+-----------------------------------------------------------
+Symptoms: depression, feeling sad, hopelessness, anxiety, panic attack,
+          excessive worry, stress, nervousness, mood swings, irritability,
+          insomnia, sleep disturbance, hallucinations, hearing voices,
+          schizophrenia, bipolar disorder, addiction, alcohol dependency,
+          drug addiction, OCD, phobia, eating disorder, suicidal thoughts,
+          behavioral problems, anger issues, social withdrawal
+
+→ Department: PSYCHIATRY
+
+Doctor: Dr. Mohanraj Subramanian
+  Role: Senior Consultant Psychiatrist
+  Best for: Depression, anxiety, schizophrenia, addiction, all mental health concerns
+  Available: Wednesday, Friday — 2:00 PM to 5:00 PM
+  Fee: ₹700
+  Note: Appointment mandatory. Strict confidentiality maintained. Walk-ins not accepted.
+
+-----------------------------------------------------------
+SYMPTOM GROUP 10: STOMACH & DIGESTIVE PROBLEMS
+-----------------------------------------------------------
+Symptoms: stomach pain, abdominal pain, acidity, heartburn, acid reflux, GERD,
+          bloating, gas, indigestion, nausea, vomiting, constipation,
+          diarrhea, loose stools, blood in stool, black stool,
+          jaundice, yellow skin, yellow eyes, liver problem, fatty liver,
+          hepatitis, cirrhosis, swollen abdomen, IBD, Crohn's disease,
+          ulcerative colitis, stomach ulcer, peptic ulcer, endoscopy needed
+
+→ Department: GASTROENTEROLOGY
+
+Doctor: Dr. Srinivasan Gopalakrishnan
+  Role: Consultant Gastroenterologist
+  Best for: Acidity, liver disease, IBD, endoscopy, colonoscopy, stomach ulcers
+  Available: Monday, Wednesday — 10:00 AM to 1:00 PM
+  Fee: ₹700
+
+-----------------------------------------------------------
+SYMPTOM GROUP 11: KIDNEY & URINARY PROBLEMS
+-----------------------------------------------------------
+Symptoms: kidney problem, kidney disease, chronic kidney disease, CKD,
+          swelling in face, swelling in legs, puffiness, decreased urine output,
+          dark urine, blood in urine, frequent urination, burning urination,
+          UTI, urinary tract infection, kidney stone, dialysis, renal failure,
+          protein in urine, creatinine high, kidney transplant follow-up,
+          high blood pressure with kidney issue
+
+→ Department: NEPHROLOGY
+
+Doctor: Dr. Palanisamy Karthikeyan
+  Role: Senior Consultant Nephrologist
+  Best for: CKD, dialysis, kidney failure, hypertension with kidney disease, transplant follow-up
+  Available: Tuesday, Thursday — 9:00 AM to 12:00 PM
+  Fee: ₹800
+
+-----------------------------------------------------------
+SYMPTOM GROUP 12: CANCER CONCERNS
+-----------------------------------------------------------
+Symptoms: lump in breast, lump in body, unexplained weight loss,
+          loss of appetite, persistent fatigue, night sweats,
+          blood in cough, coughing blood, cancer diagnosis,
+          chemotherapy, oncology follow-up, tumor, lymph node swelling,
+          suspected malignancy, abnormal biopsy report
+
+→ Department: ONCOLOGY
+
+Doctor: Dr. Thirunavukkarasu Pandian
+  Role: Senior Consultant Medical Oncologist
+  Best for: Cancer diagnosis, breast cancer, lung cancer, chemotherapy, targeted therapy
+  Available: Monday to Friday — 9:00 AM to 1:00 PM (by appointment only)
+  Fee: ₹1000
+  Note: Referral letter from GP preferred. Appointment mandatory.
+
+-----------------------------------------------------------
+SYMPTOM GROUP 13: LUNG & BREATHING PROBLEMS
+-----------------------------------------------------------
+Symptoms: cough, chronic cough, dry cough, wet cough, coughing blood,
+          breathlessness, difficulty breathing, wheezing, asthma,
+          COPD, bronchitis, pneumonia, TB, tuberculosis, chest infection,
+          lung infection, oxygen level low, SpO2 low, sleep apnea,
+          snoring with breathing issues, interstitial lung disease
+
+→ Department: PULMONOLOGY
+
+Doctor: Pulmonology Consultant (available Tuesday, Friday — 9:00 AM to 12:00 PM)
+  Available: Tuesday, Friday — 9:00 AM to 12:00 PM
+
+-----------------------------------------------------------
+SYMPTOM GROUP 14: DIABETES & HORMONAL PROBLEMS
+-----------------------------------------------------------
+Symptoms: diabetes, high blood sugar, low blood sugar, thyroid problem,
+          hypothyroidism, hyperthyroidism, weight gain, weight loss,
+          hormonal imbalance, PCOD, adrenal problem, pituitary problem,
+          growth hormone issue, obesity, metabolic disorder,
+          excessive thirst, excessive urination, fatigue with diabetes
+
+→ Department: ENDOCRINOLOGY
+
+Doctor: Endocrinology Consultant (available Wednesday, Saturday — 10:00 AM to 1:00 PM)
+  Available: Wednesday, Saturday — 10:00 AM to 1:00 PM
+
+-----------------------------------------------------------
+SYMPTOM GROUP 15: DENTAL PROBLEMS
+-----------------------------------------------------------
+Symptoms: toothache, tooth pain, cavity, dental decay, gum bleeding,
+          gum pain, swollen gum, bad breath, loose tooth, tooth sensitivity,
+          broken tooth, dental implant, tooth extraction, braces,
+          jaw pain, mouth ulcer, dental checkup
+
+→ Department: DENTAL
+
+Doctor: Dental Consultant (available Monday to Saturday — 9:00 AM to 5:00 PM)
+  Available: Monday to Saturday — 9:00 AM to 5:00 PM
+
+-----------------------------------------------------------
+SYMPTOM GROUP 16: JOINT PAIN WITH AUTOIMMUNE SYMPTOMS
+-----------------------------------------------------------
+Symptoms: joint pain with swelling in multiple joints, morning stiffness,
+          rheumatoid arthritis, lupus, autoimmune disease, stiff joints,
+          joint inflammation, ankylosing spondylitis, gout, uric acid high
+
+→ Department: RHEUMATOLOGY
+
+Doctor: Rheumatology Consultant
+  Available: Monday, Thursday — 10:00 AM to 1:00 PM
+
+-----------------------------------------------------------
+SYMPTOM GROUP 17: UROLOGICAL PROBLEMS
+-----------------------------------------------------------
+Symptoms: urinary problems in men, prostate problem, enlarged prostate,
+          burning urination, difficulty urinating, kidney stone,
+          male infertility, scrotal pain, blood in urine (male),
+          urinary incontinence, bladder problem, erectile dysfunction
+
+→ Department: UROLOGY
+
+Doctor: Urology Consultant
+  Available: Tuesday, Thursday, Saturday — 9:00 AM to 1:00 PM
+
+-----------------------------------------------------------
+SYMPTOM GROUP 18: CHRONIC PAIN
+-----------------------------------------------------------
+Symptoms: chronic pain, persistent pain, pain not relieved by medicine,
+          back pain not responding to treatment, neuropathic pain,
+          fibromyalgia, cancer pain, post-surgery pain, nerve pain
+
+→ Department: PAIN MANAGEMENT CLINIC
+
+Doctor: Pain Management Consultant
+  Available: Wednesday, Saturday — 10:00 AM to 2:00 PM
+
+-----------------------------------------------------------
+SYMPTOM GROUP 19: BLOOD DISORDERS
+-----------------------------------------------------------
+Symptoms: anemia, low hemoglobin, low blood count, fatigue with pallor,
+          bleeding disorder, platelet low, thrombocytopenia,
+          blood cancer, leukemia, lymphoma, blood clot, DVT,
+          sickle cell disease, thalassemia, abnormal CBC report
+
+→ Department: HEMATOLOGY
+
+Doctor: Hematology Consultant
+  Available: Tuesday, Friday — 9:00 AM to 12:00 PM
+
+-----------------------------------------------------------
+SYMPTOM GROUP 20: PHYSIOTHERAPY NEEDS
+-----------------------------------------------------------
+Symptoms: post-surgery rehabilitation, stroke recovery, paralysis recovery,
+          sports injury rehab, back pain physiotherapy, neck pain physiotherapy,
+          difficulty in movement, post-fracture recovery, post-knee replacement,
+          shoulder stiffness, frozen shoulder, physiotherapy referral
+
+→ Department: PHYSIOTHERAPY & REHABILITATION
+
+Doctor: Physiotherapy Consultant
+  Available: Monday to Saturday — 8:00 AM to 6:00 PM
+
+=============================================================
+FALLBACK RULE (NOT SURE):
+=============================================================
+If symptoms do not clearly match any group above:
+→ Recommend: General OPD (Monday to Saturday, 8:00 AM to 8:00 PM)
+→ A General Physician will assess and refer to the right specialist.
+→ Helpdesk: 044-XXXX-XXXX
+
+=============================================================
+EMERGENCY RULE:
+=============================================================
+If patient describes: severe chest pain, stroke, unconsciousness,
+heavy bleeding, accident, poisoning, breathing failure, seizure —
+→ Direct immediately to EMERGENCY DEPARTMENT (24/7, Extension: 999)
+→ Ambulance: 108 (Free)
+=============================================================

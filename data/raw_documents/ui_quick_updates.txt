@@ -1,0 +1,336 @@
+
+## HOSPITAL INSURANCE KNOWLEDGE BASE
+## Purpose: Answer patient queries related to insurance, cashless treatment,
+##           claims, accepted providers, and insurance desk services.
+
+=============================================================
+INSTRUCTION FOR AI/SYSTEM:
+When a patient asks about insurance, billing via insurance,
+cashless treatment, reimbursement, or specific provider acceptance,
+use this knowledge base to provide accurate answers.
+=============================================================
+
+-----------------------------------------------------------
+SECTION 1: INSURANCE DESK — LOCATION & CONTACT
+-----------------------------------------------------------
+Location       : Ground Floor, Block A — Near Main Reception
+Working Hours  : Monday to Friday — 9:00 AM to 5:00 PM
+                 Saturday — 9:00 AM to 1:00 PM
+                 Sunday — CLOSED (Emergency queries via Duty Manager)
+Email          : insurance@hospital.com
+Phone          : +91-XXXXX-XXXXX
+Emergency Help : Contact Duty Manager at Main Reception (24/7)
+
+Patient Query Examples:
+  Q: Where is the insurance desk?
+  A: Ground Floor, Block A, near main reception.
+
+  Q: What time does the insurance desk open?
+  A: Monday to Friday 9 AM–5 PM, Saturday 9 AM–1 PM. Closed on Sunday.
+
+  Q: Who do I contact for insurance on a Sunday?
+  A: The insurance desk is closed on Sunday. Please contact the Duty Manager
+     at the main reception, available 24/7.
+
+-----------------------------------------------------------
+SECTION 2: ACCEPTED INSURANCE PROVIDERS
+-----------------------------------------------------------
+The following insurance providers are accepted at this hospital:
+
+PRIVATE INSURANCE:
+  1. Star Health Insurance
+  2. New India Assurance
+  3. United India Insurance
+  4. ICICI Lombard Health Insurance
+  5. HDFC ERGO Health Insurance
+  6. Bajaj Allianz Health Insurance
+  7. Max Bupa Health Insurance (now Niva Bupa)
+
+GOVERNMENT SCHEMES:
+  8. Ayushman Bharat (PMJAY) — Pradhan Mantri Jan Arogya Yojana
+  9. Central Government Health Scheme (CGHS)
+  10. Employee State Insurance (ESI)
+
+Patient Query Examples:
+  Q: Do you accept Star Health Insurance?
+  A: Yes, Star Health Insurance is accepted at our hospital.
+
+  Q: Is Ayushman Bharat / PMJAY accepted here?
+  A: Yes, we accept Ayushman Bharat (PMJAY) under the government scheme.
+
+  Q: Do you accept CGHS?
+  A: Yes, Central Government Health Scheme (CGHS) is accepted.
+
+  Q: Do you accept ESI?
+  A: Yes, Employee State Insurance (ESI) is accepted.
+
+  Q: My insurance is not on the list — what do I do?
+  A: Please visit the insurance desk or call +91-XXXXX-XXXXX to verify.
+     Our team will check if your provider has a tie-up with the hospital.
+
+-----------------------------------------------------------
+SECTION 3: CASHLESS TREATMENT
+-----------------------------------------------------------
+What is cashless?
+  → You don't pay the hospital bill directly. The insurance company
+    pays the hospital on your behalf after approving the claim.
+
+How to avail cashless treatment:
+  Step 1: Visit the Insurance Desk with your insurance e-card or physical card + valid ID.
+  Step 2: Our team will verify your policy and check network status.
+  Step 3: We submit a pre-authorization request to your insurance company.
+  Step 4: Once approved, you receive cashless treatment without upfront payment.
+  Step 5: Any non-covered expenses (co-pay, exclusions) must be paid by you.
+
+Important:
+  - Cashless is available ONLY if this hospital is in your insurer's network.
+  - Always carry your insurance e-card or physical card.
+  - Do not leave the hospital without completing cashless discharge formalities.
+
+Patient Query Examples:
+  Q: Can I get cashless treatment here?
+  A: Yes, cashless treatment is available if your insurance provider has
+     a tie-up with our hospital. Visit the insurance desk with your card.
+
+  Q: What documents do I need for cashless?
+  A: Bring your insurance card (physical or e-card) and a valid government ID.
+
+  Q: How long does cashless approval take?
+  A: Pre-authorization is typically processed within a few hours for planned
+     admissions. Emergency cashless approvals are expedited.
+
+-----------------------------------------------------------
+SECTION 4: PRE-AUTHORIZATION
+-----------------------------------------------------------
+What is pre-authorization?
+  → A formal approval from your insurance company BEFORE a planned procedure
+    or admission. Without this, cashless may be denied.
+
+When is pre-authorization required?
+  - All planned (non-emergency) surgeries
+  - Planned hospital admissions
+  - High-cost procedures (MRI, CT, chemotherapy, dialysis, etc.)
+  - ICU admission (for planned care)
+
+How to apply:
+  → Visit the insurance desk at least 48 hours before your procedure.
+  → Carry: doctor's prescription, investigation reports, insurance card, valid ID.
+  → Our insurance team will submit the request on your behalf.
+
+Timeline:
+  - Standard pre-authorization: 24–48 hours
+  - Emergency pre-authorization: Expedited — contact Duty Manager
+
+Patient Query Examples:
+  Q: Do I need pre-authorization for surgery?
+  A: Yes, pre-authorization is mandatory for all planned surgeries.
+     Apply at the insurance desk at least 48 hours in advance.
+
+  Q: What if I need emergency surgery — do I still need pre-authorization?
+  A: In emergencies, treatment begins immediately. Our team will handle
+     the insurance approval on your behalf. Attendant must inform the
+     insurance desk or Duty Manager as soon as possible.
+
+  Q: How early should I apply for pre-authorization?
+  A: Minimum 48 hours before the planned procedure or admission.
+
+-----------------------------------------------------------
+SECTION 5: REIMBURSEMENT CLAIMS
+-----------------------------------------------------------
+What is reimbursement?
+  → If you paid the hospital bill yourself (non-cashless), you can claim
+    the amount back from your insurance company.
+
+How to file a reimbursement claim:
+  Step 1: Collect all original documents at discharge:
+            - Itemized hospital bill
+            - Discharge summary
+            - Doctor's prescriptions
+            - Lab and diagnostic reports
+            - Payment receipts
+  Step 2: Submit these documents to your insurance company directly,
+          OR visit the insurance desk — we can assist with paperwork.
+  Step 3: Insurance company will verify and process the claim.
+  Step 4: Reimbursement credited to your bank account.
+
+Processing Time:
+  → Reimbursement claims are typically processed within 15 working days
+    by the insurance company (may vary by provider).
+
+Patient Query Examples:
+  Q: I paid cash — can I get reimbursement from my insurance?
+  A: Yes. Collect all original bills and reports at discharge and submit
+     them to your insurance company. The insurance desk can help you
+     with the required paperwork.
+
+  Q: How long does reimbursement take?
+  A: Typically 15 working days after submission of complete documents.
+
+  Q: What documents do I need for a reimbursement claim?
+  A: Original itemized bill, discharge summary, prescriptions, lab reports,
+     and payment receipts.
+
+-----------------------------------------------------------
+SECTION 6: WHAT IS AND ISN'T COVERED
+-----------------------------------------------------------
+GENERALLY COVERED (subject to your policy):
+  - In-patient hospitalization (admitted for 24+ hours)
+  - Surgeries and procedures
+  - ICU charges
+  - Diagnostic tests (during admission)
+  - Medicines (during admission)
+  - Ambulance charges (some policies)
+  - Daycare procedures (certain policies)
+  - Pre and post-hospitalization expenses (some policies)
+
+GENERALLY NOT COVERED (check your policy):
+  - OPD (outpatient) consultations — usually NOT covered
+  - Routine health checkups
+  - Cosmetic procedures
+  - Dental treatment (unless trauma-related)
+  - Spectacles, hearing aids, external devices
+  - Maternity (if not included in your policy)
+  - Pre-existing conditions during waiting period
+  - Consumables (some policies exclude gloves, syringes, etc.)
+
+Patient Query Examples:
+  Q: Is my OPD visit covered by insurance?
+  A: OPD visits are usually not covered by standard health insurance.
+     Please check your specific policy for OPD coverage.
+
+  Q: Will my surgery be covered?
+  A: Most planned surgeries are covered if the hospital is in your
+     insurer's network and pre-authorization is obtained. Check your
+     policy for exclusions.
+
+  Q: Is delivery / maternity covered?
+  A: Maternity coverage depends on your policy. Some plans include it
+     after a waiting period. Please check with your insurance provider.
+
+  Q: Is dental covered?
+  A: Standard dental treatment is generally not covered. However,
+     dental injuries due to accidents may be covered. Check your policy.
+
+-----------------------------------------------------------
+SECTION 7: AYUSHMAN BHARAT (PMJAY) — GOVERNMENT SCHEME
+-----------------------------------------------------------
+What is it?
+  → A Government of India health scheme providing free treatment up to
+    ₹5 lakh per family per year to eligible beneficiaries.
+
+Who is eligible?
+  → Families listed under the Socio-Economic Caste Census (SECC) database.
+  → Beneficiaries with a valid Ayushman card / golden card.
+
+How to avail:
+  Step 1: Carry your Ayushman Bharat card or Aadhaar card.
+  Step 2: Visit the insurance desk — our PMJAY coordinator will verify eligibility.
+  Step 3: If eligible, treatment is fully cashless up to ₹5 lakh.
+
+Coverage:
+  - 1,500+ medical packages covered
+  - Includes surgery, ICU, medicines, diagnostics during admission
+  - Pre and post-hospitalization (up to 3 days before, 15 days after)
+
+Patient Query Examples:
+  Q: I have an Ayushman card — can I get free treatment here?
+  A: Yes! Carry your Ayushman Bharat card and visit the insurance desk.
+     Our team will verify eligibility and arrange cashless treatment.
+
+  Q: How much does Ayushman Bharat cover?
+  A: Up to ₹5 lakh per family per year for approved medical packages.
+
+  Q: What if I don't have my Ayushman card with me?
+  A: You can verify eligibility using your Aadhaar card. Visit the
+     insurance desk and our team will assist you.
+
+-----------------------------------------------------------
+SECTION 8: CGHS (CENTRAL GOVERNMENT HEALTH SCHEME)
+-----------------------------------------------------------
+Who is eligible?
+  → Central Government employees, pensioners, and their dependents.
+
+How to avail:
+  Step 1: Carry your CGHS card and valid ID.
+  Step 2: For planned treatment — obtain referral from CGHS dispensary.
+  Step 3: Visit the insurance desk with referral letter and CGHS card.
+  Step 4: Cashless treatment processed as per CGHS rates.
+
+Important:
+  - CGHS rates apply — there may be a difference between CGHS package
+    rate and actual hospital charges (patient must pay the difference).
+  - Emergency treatment does not require prior referral.
+
+Patient Query Examples:
+  Q: I am a government employee with CGHS — is it accepted here?
+  A: Yes, CGHS is accepted. Carry your CGHS card and referral letter
+     from your dispensary (except in emergencies).
+
+  Q: Do I need a referral for CGHS?
+  A: Yes, for planned treatment a CGHS dispensary referral is required.
+     For emergencies, no referral is needed.
+
+-----------------------------------------------------------
+SECTION 9: ESI (EMPLOYEE STATE INSURANCE)
+-----------------------------------------------------------
+Who is eligible?
+  → Employees earning below ₹21,000/month (₹25,000 for persons with disability)
+    working in registered establishments.
+
+How to avail:
+  Step 1: Carry your ESI card and valid ID.
+  Step 2: For planned admission — obtain referral from ESI dispensary/hospital.
+  Step 3: Visit insurance desk with ESI card and referral.
+  Step 4: Treatment arranged as per ESI tie-up.
+
+Patient Query Examples:
+  Q: My company provides ESI — is it accepted here?
+  A: Yes, ESI is accepted. Carry your ESI card and referral letter.
+
+  Q: Do I need a referral for ESI?
+  A: Yes, a referral from the ESI dispensary is required for planned treatment.
+     Emergency cases are handled directly.
+
+-----------------------------------------------------------
+SECTION 10: INSURANCE — EMERGENCY SITUATIONS
+-----------------------------------------------------------
+If a patient arrives in emergency:
+  - Treatment begins IMMEDIATELY without waiting for insurance approval.
+  - Attendant/family must inform the insurance desk or Duty Manager
+    within 24 hours of admission.
+  - Insurance desk will initiate emergency pre-authorization on your behalf.
+  - Documents can be submitted after patient is stabilized.
+
+Patient Query Examples:
+  Q: My family member is in emergency — do we need to handle insurance now?
+  A: No. Treatment starts immediately. Inform the insurance desk or
+     Duty Manager at the reception within 24 hours of admission.
+
+  Q: What if insurance pre-authorization is rejected in an emergency?
+  A: Our team will escalate with your insurer. Emergency care is never
+     withheld. Any billing issues are resolved after stabilization.
+
+-----------------------------------------------------------
+SECTION 11: TIPS FOR PATIENTS
+-----------------------------------------------------------
+  1. Always carry your insurance card (physical or e-card) when visiting.
+  2. Know your policy number and insurer's helpline number.
+  3. For planned admission — visit the insurance desk 48 hours before.
+  4. Collect ALL original documents at discharge for reimbursement.
+  5. Check your policy for co-pay, sub-limits, and exclusions in advance.
+  6. OPD visits are mostly NOT covered — confirm with your insurer.
+  7. For government schemes (PMJAY, CGHS, ESI) — carry your scheme card.
+  8. If unsure — call insurance desk at +91-XXXXX-XXXXX before visiting.
+
+=============================================================
+CONTACT SUMMARY
+=============================================================
+Insurance Desk Phone   : +91-XXXXX-XXXXX
+Insurance Desk Email   : insurance@hospital.com
+Insurance Desk Location: Ground Floor, Block A, near Main Reception
+Insurance Desk Hours   : Mon–Fri 9 AM–5 PM | Sat 9 AM–1 PM | Sun CLOSED
+Emergency (24/7)       : Duty Manager at Main Reception
+                         044-XXXX-XXXX (Ext: 999)
+=============================================================
+
+#Doctor NameDepartmentAvailabilityFee1Dr. Ramesh KrishnamurthyCardiologyMon, Wed, Fri — 9 AM–1 PM₹8002Dr. Meenakshi SundaramCardiologyMon, Wed, Fri — 9 AM–1 PM₹6003Dr. Venkataraman IyerNeurologyTue, Thu — 10 AM–2 PM₹8004Dr. Lakshmi Priya NarayananNeurologyTue, Thu — 10 AM–2 PM₹6005Dr. Subramaniam RajendranOrthopedicsMon–Sat — 9 AM–5 PM₹7006Dr. Anand BalakrishnanOrthopedicsMon–Sat — 9 AM–5 PM₹6007Dr. Kavitha MurugesanPediatricsMon–Sat — 8 AM–6 PM₹6008Dr. Sathyanarayanan PillaiPediatricsMon–Sat — 8 AM–6 PM₹5009Dr. Rajalakshmi ChandrasekaranGynecology & ObstetricsMon–Sat — 9 AM–4 PM₹70010Dr. Deepa NanthakumarGynecology & ObstetricsMon–Sat — 9 AM–4 PM₹50011Dr. Senthilkumar ArumugamDermatologyTue, Thu, Sat — 10 AM–1 PM₹60012Dr. Balasubramanian NatarajanENTMon, Wed, Fri — 9 AM–12 PM₹60013Dr. Vijayalakshmi RajanOphthalmologyMon–Fri — 10 AM–3 PM₹60014Dr. Mohanraj SubramanianPsychiatryWed, Fri — 2 PM–5 PM₹70015Dr. Thirunavukkarasu PandianOncologyMon–Fri — 9 AM–1 PM₹100016Dr. Srinivasan GopalakrishnanGastroenterologyMon, Wed — 10 AM–1 PM₹70017Dr. Palanisamy KarthikeyanNephrologyTue, Thu — 9 AM–12 PM₹800

@@ -24,6 +24,13 @@ Nephrology: Tuesday, Thursday — 9:00 AM to 12:00 PM
 Gastroenterology: Monday, Wednesday — 10:00 AM to 1:00 PM
 Pulmonology: Tuesday, Friday — 9:00 AM to 12:00 PM
 Endocrinology: Wednesday, Saturday — 10:00 AM to 1:00 PM
+Radiology & Imaging: Monday to Saturday — 8:00 AM to 8:00 PM (24/7 for emergencies)
+Rheumatology: Monday, Thursday — 10:00 AM to 1:00 PM
+Urology: Tuesday, Thursday, Saturday — 9:00 AM to 1:00 PM
+Plastic & Reconstructive Surgery: Monday, Wednesday — 10:00 AM to 1:00 PM (by appointment)
+Hematology: Tuesday, Friday — 9:00 AM to 12:00 PM
+Pain Management Clinic: Wednesday, Saturday — 10:00 AM to 2:00 PM
+Physiotherapy & Rehabilitation: Monday to Saturday — 8:00 AM to 6:00 PM
 
 ### DOCUMENTS REQUIRED FOR REGISTRATION
 New Patient Registration:
@@ -111,12 +118,57 @@ Admin Office: admin@hospital.com
 - Interpreter services available on request (48 hours notice preferred)
 - Free Wi-Fi available in OPD waiting area (Password: HospitalGuest2024)
 - Patient locker facility available at nursing station
+- Diagnostic Laboratory: Ground Floor, Block D — Open 24/7 for emergency tests; routine tests 7:00 AM to 8:00 PM
+- Blood Collection Centre: Monday to Saturday — 6:30 AM to 11:00 AM (fasting samples accepted before 9:00 AM)
+- Medical Records Department: Monday to Friday — 9:00 AM to 5:00 PM, Saturday — 9:00 AM to 1:00 PM
+- Yoga & Wellness Centre: Monday to Saturday — 6:30 AM to 8:30 AM (for admitted patients and outpatients, prior registration required)
+- Prayer Room / Meditation Hall: Open 24/7, located near Block B, Second Floor
+- Ambulatory Care Unit (Day Care): Monday to Saturday — 7:00 AM to 7:00 PM (for minor procedures not requiring overnight stay)
+- Mother & Baby Care Lounge: First Floor, Block C — for breastfeeding and infant care, open 24/7
+- Cancer Screening Camp: First Saturday of every month — 9:00 AM to 1:00 PM (free of cost, registration required)
+- Patient Transport Service: Available for discharge and inter-hospital transfer — contact reception 2 hours in advance
 
 ### COVID & INFECTION CONTROL POLICIES
 Masks are recommended but not mandatory for general visitors.
 Masks mandatory in ICU, NICU, Oncology ward, and Operation Theatre area.
 Regular hand sanitization required at entry and exit of all wards.
 Symptomatic visitors (fever, cough, cold) are requested to postpone visits.
+
+### PATIENT RIGHTS & RESPONSIBILITIES
+
+Patient Rights:
+- Every patient has the right to receive respectful and dignified care regardless of caste, religion, gender, or financial status.
+- Patients have the right to be informed about their diagnosis, treatment options, risks, and expected outcomes in a language they understand.
+- Patients have the right to give or refuse informed consent before any procedure or surgery.
+- Patients have the right to privacy and confidentiality of their medical records.
+- Patients have the right to seek a second opinion from another specialist within or outside the hospital.
+- Patients have the right to view their medical records and receive copies upon request (processing time: 3 working days).
+- Patients have the right to file a complaint or grievance without fear of discrimination.
+
+Patient Responsibilities:
+- Patients must provide accurate and complete information about their health history, medications, and allergies.
+- Patients are responsible for following the treatment plan as advised by the doctor.
+- Patients must respect hospital staff, other patients, and hospital property.
+- Patients must adhere to hospital rules, visiting hours, and infection control guidelines.
+- Patients must settle all billing dues at the time of discharge.
+- Patients must inform the nursing staff if they choose to leave against medical advice (AMA).
+
+### DISCHARGE POLICY
+- Discharge orders are typically issued in the morning. Patients are requested to complete discharge formalities by 12:00 PM.
+- Final bill preparation may take 2–4 hours after discharge order is issued.
+- Insurance cashless discharge may take additional 1–2 hours for insurer approval.
+- Patients requiring ambulance or patient transport must inform the nursing station at least 2 hours before discharge.
+- Discharge summary and prescriptions will be provided at the time of discharge. Digital copy can be emailed on request.
+- For early morning discharge, please inform nursing staff the previous evening.
+- Patients who leave without completing discharge formalities will be considered as Against Medical Advice (AMA) discharge.
+
+### GRIEVANCE & FEEDBACK POLICY
+- Patients and attendants are encouraged to share feedback through the Feedback Forms available at all nursing stations and the reception.
+- Online feedback can be submitted at feedback@hospital.com.
+- A Patient Relations Officer (PRO) is available Monday to Saturday, 9:00 AM to 5:00 PM at the reception (Ground Floor, Block A).
+- Grievances will be acknowledged within 24 hours and resolved within 7 working days.
+- For urgent complaints, contact the Duty Manager available 24/7 at the main reception.
+- An independent Patient Grievance Committee meets on the last Friday of every month to review unresolved complaints.
 
 ### BILLING & PAYMENTS
 Billing Counter: Ground Floor, Block C — Open 24/7
