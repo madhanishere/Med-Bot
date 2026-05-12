@@ -1,36 +1,41 @@
-from fastapi import APIRouter, HTTPException, Request
+from fastapi import APIRouter, Request
 from pydantic import BaseModel
-from services.database import SessionLocal, ChatLog
 
-router = APIRouter(tags=["Chat"])
-
+router = APIRouter()
 
 class ChatRequest(BaseModel):
-    question: str
-    role: str = "Visitor"
-
+    message: str
+    role: str = "Patient"
 
 @router.post("/chat")
-async def chat_endpoint(chat_request: ChatRequest, request: Request):
-
+async def chat_endpoint(request: Request, payload: ChatRequest):
     rag_chain = request.app.state.rag_chain
-
+    
     if not rag_chain:
-        raise HTTPException(status_code=500, detail="AI is not initialized.")
+        return {"answer": "The database is currently empty or updating.", "citations": []}
 
-    response = request.app.state.rag_chain.invoke(
-        {"input": chat_request.question, "role": chat_request.role}
-    )
-    answer = response["answer"]
+    response = rag_chain.invoke({
+        "input": payload.message,
+        "role": payload.role
+    })
+    
+    citations = []
+    if "context" in response:
+        for doc in response["context"]:
+            source_file = doc.metadata.get("source", "Unknown Document")
+            page_num = doc.metadata.get("page", "N/A")
+            
+            clean_name = source_file.split("/")[-1].split("\\")[-1] 
+            
+            citations.append({
+                "file": clean_name,
+                "page": page_num,
+                "content_preview": doc.page_content[:150] + "..."
+            })
 
-    db = SessionLocal()
-    try:
-        new_log = ChatLog(
-            role=chat_request.role, question=chat_request.question, answer=answer
-        )
-        db.add(new_log)
-        db.commit()
-    finally:
-        db.close()
+    unique_citations = [dict(t) for t in {tuple(d.items()) for d in citations}]
 
-    return {"answer": answer}
+    return {
+        "answer": response["answer"],
+        "citations": unique_citations
+    }
