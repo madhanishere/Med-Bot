@@ -1,0 +1,698 @@
+================================================================================
+                        CITY CARE GENERAL HOSPITAL
+                     DOCTOR PROFILES & AVAILABILITY - v1.0
+================================================================================
+
+NOTE: Doctor schedules are subject to change. Always confirm via appointment
+booking at +91-44-2800-2000 or www.citycarehosp.in/appointments
+
+Follow-up Visits (within 7 days of first consultation): 50% concession on fee.
+All fees are inclusive of GST.
+
+================================================================================
+DEPARTMENT 1: GENERAL MEDICINE
+================================================================================
+
+--------------------------------------------------------------------------------
+DR. RAJESH KUMAR NARAYANAN
+--------------------------------------------------------------------------------
+Designation        : Senior Consultant – General Medicine
+Qualification      : MBBS, MD (Internal Medicine)
+Experience         : 18 years
+Languages          : Tamil, English, Hindi
+Specialization     : Diabetes Management, Fever & Infections, Hypertension,
+                     Preventive Health Check-ups
+
+Availability:
+  Monday     : 7:00 AM – 12:00 PM  |  4:00 PM – 7:00 PM
+  Tuesday    : 7:00 AM – 12:00 PM  |  4:00 PM – 7:00 PM
+  Wednesday  : 7:00 AM – 12:00 PM  |  4:00 PM – 7:00 PM
+  Thursday   : 7:00 AM – 12:00 PM  |  4:00 PM – 7:00 PM
+  Friday     : 7:00 AM – 12:00 PM  |  4:00 PM – 7:00 PM
+  Saturday   : 7:00 AM – 1:00 PM   |  Not Available
+  Sunday     : 8:00 AM – 11:00 AM  |  Not Available
+
+Consultation Fee   : ₹500
+Follow-up Fee      : ₹250 (within 7 days)
+
+--------------------------------------------------------------------------------
+DR. MEENAKSHI SUBRAMANIAM
+--------------------------------------------------------------------------------
+Designation        : Consultant – General Medicine
+Qualification      : MBBS, MD (General Medicine)
+Experience         : 10 years
+Languages          : Tamil, English
+Specialization     : Thyroid Disorders, Anemia, General Adult Medicine
+
+Availability:
+  Monday     : Not Available        |  4:00 PM – 8:00 PM
+  Tuesday    : Not Available        |  4:00 PM – 8:00 PM
+  Wednesday  : 8:00 AM – 1:00 PM   |  4:00 PM – 8:00 PM
+  Thursday   : Not Available        |  4:00 PM – 8:00 PM
+  Friday     : 8:00 AM – 1:00 PM   |  4:00 PM – 8:00 PM
+  Saturday   : 8:00 AM – 1:00 PM   |  Not Available
+  Sunday     : Not Available
+
+Consultation Fee   : ₹400
+Follow-up Fee      : ₹200 (within 7 days)
+
+================================================================================
+DEPARTMENT 2: CARDIOLOGY
+================================================================================
+
+--------------------------------------------------------------------------------
+DR. SENTHIL KUMAR ANANDAN
+--------------------------------------------------------------------------------
+Designation        : Senior Consultant & Head – Cardiology
+Qualification      : MBBS, MD (Medicine), DM (Cardiology), FACC
+Experience         : 22 years
+Languages          : Tamil, English, Hindi
+Specialization     : Interventional Cardiology, Angioplasty, Heart Failure,
+                     Coronary Artery Disease, Cardiac Electrophysiology
+
+Availability:
+  Monday     : 8:00 AM – 12:00 PM  |  5:00 PM – 7:30 PM
+  Tuesday    : 8:00 AM – 12:00 PM  |  5:00 PM – 7:30 PM
+  Wednesday  : Not Available        |  5:00 PM – 7:30 PM
+  Thursday   : 8:00 AM – 12:00 PM  |  5:00 PM – 7:30 PM
+  Friday     : 8:00 AM – 12:00 PM  |  5:00 PM – 7:30 PM
+  Saturday   : 8:00 AM – 12:00 PM  |  Not Available
+  Sunday     : By Appointment Only
+
+Consultation Fee   : ₹1,200
+Follow-up Fee      : ₹600 (within 7 days)
+
+--------------------------------------------------------------------------------
+DR. PRIYA VENKATARAMAN
+--------------------------------------------------------------------------------
+Designation        : Consultant – Cardiology
+Qualification      : MBBS, MD (Medicine), DM (Cardiology)
+Experience         : 12 years
+Languages          : Tamil, English
+Specialization     : Echocardiography, Preventive Cardiology,
+                     Hypertension, Lipid Management
+
+Availability:
+  Monday     : Not Available        |  5:00 PM – 8:00 PM
+  Tuesday    : 9:00 AM – 1:00 PM   |  Not Available
+  Wednesday  : 9:00 AM – 1:00 PM   |  5:00 PM – 8:00 PM
+  Thursday   : Not Available        |  5:00 PM – 8:00 PM
+  Friday     : 9:00 AM – 1:00 PM   |  Not Available
+  Saturday   : 9:00 AM – 12:30 PM  |  Not Available
+  Sunday     : By Appointment Only
+
+Consultation Fee   : ₹900
+Follow-up Fee      : ₹450 (within 7 days)
+
+================================================================================
+DEPARTMENT 3: NEUROLOGY
+================================================================================
+
+--------------------------------------------------------------------------------
+DR. ARJUN BALAKRISHNAN
+--------------------------------------------------------------------------------
+Designation        : Senior Consultant – Neurology
+Qualification      : MBBS, MD (Medicine), DM (Neurology)
+Experience         : 16 years
+Languages          : Tamil, English, Malayalam
+Specialization     : Stroke, Epilepsy, Parkinson's Disease,
+                     Migraine, Multiple Sclerosis
+
+Availability:
+  Monday     : 9:00 AM – 1:00 PM   |  5:00 PM – 7:30 PM
+  Tuesday    : 9:00 AM – 1:00 PM   |  Not Available
+  Wednesday  : Not Available        |  5:00 PM – 7:30 PM
+  Thursday   : 9:00 AM – 1:00 PM   |  5:00 PM – 7:30 PM
+  Friday     : 9:00 AM – 1:00 PM   |  Not Available
+  Saturday   : 9:00 AM – 12:00 PM  |  Not Available
+  Sunday     : Not Available
+
+Consultation Fee   : ₹1,100
+Follow-up Fee      : ₹550 (within 7 days)
+
+--------------------------------------------------------------------------------
+DR. KAVITHA RAMACHANDRAN
+--------------------------------------------------------------------------------
+Designation        : Consultant – Neurology
+Qualification      : MBBS, MD, DM (Neurology)
+Experience         : 8 years
+Languages          : Tamil, English
+Specialization     : Headache Disorders, Memory Disorders,
+                     Neuropathy, Sleep Disorders
+
+Availability:
+  Monday     : Not Available        |  5:00 PM – 7:00 PM
+  Tuesday    : 10:00 AM – 1:00 PM  |  5:00 PM – 7:00 PM
+  Wednesday  : 10:00 AM – 1:00 PM  |  Not Available
+  Thursday   : Not Available        |  5:00 PM – 7:00 PM
+  Friday     : 10:00 AM – 1:00 PM  |  Not Available
+  Saturday   : Not Available
+  Sunday     : Not Available
+
+Consultation Fee   : ₹900
+Follow-up Fee      : ₹450 (within 7 days)
+
+================================================================================
+DEPARTMENT 4: ORTHOPEDICS
+================================================================================
+
+--------------------------------------------------------------------------------
+DR. MURUGESAN PILLAI
+--------------------------------------------------------------------------------
+Designation        : Senior Consultant & HOD – Orthopedics
+Qualification      : MBBS, MS (Orthopedics), Fellowship in Joint Replacement
+Experience         : 20 years
+Languages          : Tamil, English, Hindi
+Specialization     : Knee & Hip Replacement, Spine Surgery,
+                     Sports Injuries, Arthroscopy
+
+Availability:
+  Monday     : 8:00 AM – 1:00 PM   |  4:30 PM – 7:30 PM
+  Tuesday    : 8:00 AM – 1:00 PM   |  Not Available
+  Wednesday  : Not Available        |  4:30 PM – 7:30 PM
+  Thursday   : 8:00 AM – 1:00 PM   |  4:30 PM – 7:30 PM
+  Friday     : 8:00 AM – 1:00 PM   |  Not Available
+  Saturday   : 8:00 AM – 12:00 PM  |  Not Available
+  Sunday     : 9:00 AM – 12:00 PM
+
+Consultation Fee   : ₹1,000
+Follow-up Fee      : ₹500 (within 7 days)
+
+--------------------------------------------------------------------------------
+DR. ANITHA SELVAM
+--------------------------------------------------------------------------------
+Designation        : Consultant – Orthopedics & Trauma
+Qualification      : MBBS, MS (Orthopedics)
+Experience         : 9 years
+Languages          : Tamil, English
+Specialization     : Fracture Management, Pediatric Orthopedics,
+                     Ligament Injuries, Foot & Ankle
+
+Availability:
+  Monday     : Not Available        |  4:30 PM – 8:00 PM
+  Tuesday    : 9:00 AM – 1:00 PM   |  4:30 PM – 8:00 PM
+  Wednesday  : 9:00 AM – 1:00 PM   |  Not Available
+  Thursday   : Not Available        |  4:30 PM – 8:00 PM
+  Friday     : 9:00 AM – 1:00 PM   |  4:30 PM – 8:00 PM
+  Saturday   : 9:00 AM – 12:30 PM  |  Not Available
+  Sunday     : Not Available
+
+Consultation Fee   : ₹700
+Follow-up Fee      : ₹350 (within 7 days)
+
+================================================================================
+DEPARTMENT 5: PEDIATRICS
+================================================================================
+
+--------------------------------------------------------------------------------
+DR. SURESH BABU KRISHNAMURTHY
+--------------------------------------------------------------------------------
+Designation        : Senior Consultant – Pediatrics & Neonatology
+Qualification      : MBBS, MD (Pediatrics), Fellowship in Neonatology
+Experience         : 17 years
+Languages          : Tamil, English, Telugu
+Specialization     : Newborn Care, Childhood Infections, Growth & Development,
+                     Pediatric Intensive Care, Vaccination
+
+Availability:
+  Monday     : 7:30 AM – 12:00 PM  |  4:00 PM – 7:00 PM
+  Tuesday    : 7:30 AM – 12:00 PM  |  4:00 PM – 7:00 PM
+  Wednesday  : 7:30 AM – 12:00 PM  |  4:00 PM – 7:00 PM
+  Thursday   : 7:30 AM – 12:00 PM  |  4:00 PM – 7:00 PM
+  Friday     : 7:30 AM – 12:00 PM  |  4:00 PM – 7:00 PM
+  Saturday   : 7:30 AM – 1:00 PM   |  Not Available
+  Sunday     : 8:00 AM – 12:00 PM
+
+Consultation Fee   : ₹600
+Follow-up Fee      : ₹300 (within 7 days)
+
+--------------------------------------------------------------------------------
+DR. DEEPA ANNAMALAI
+--------------------------------------------------------------------------------
+Designation        : Consultant – Pediatrics
+Qualification      : MBBS, MD (Pediatrics)
+Experience         : 7 years
+Languages          : Tamil, English
+Specialization     : Allergy & Asthma in Children, Nutritional Disorders,
+                     Developmental Delays
+
+Availability:
+  Monday     : Not Available        |  4:00 PM – 8:00 PM
+  Tuesday    : Not Available        |  4:00 PM – 8:00 PM
+  Wednesday  : 8:00 AM – 1:00 PM   |  Not Available
+  Thursday   : Not Available        |  4:00 PM – 8:00 PM
+  Friday     : 8:00 AM – 1:00 PM   |  4:00 PM – 8:00 PM
+  Saturday   : 8:00 AM – 1:00 PM   |  Not Available
+  Sunday     : Not Available
+
+Consultation Fee   : ₹500
+Follow-up Fee      : ₹250 (within 7 days)
+
+================================================================================
+DEPARTMENT 6: OBSTETRICS & GYNECOLOGY
+================================================================================
+
+--------------------------------------------------------------------------------
+DR. LAKSHMI PRIYA SUNDARAM
+--------------------------------------------------------------------------------
+Designation        : Senior Consultant – OB-GYN & Laparoscopic Surgeon
+Qualification      : MBBS, MS (OB-GYN), Fellowship in Laparoscopic Surgery
+Experience         : 19 years
+Languages          : Tamil, English
+Specialization     : High-Risk Pregnancy, Normal & Cesarean Delivery,
+                     Laparoscopic Hysterectomy, PCOS, Infertility
+
+Availability:
+  Monday     : 8:00 AM – 12:00 PM  |  4:00 PM – 7:00 PM
+  Tuesday    : 8:00 AM – 12:00 PM  |  Not Available
+  Wednesday  : 8:00 AM – 12:00 PM  |  4:00 PM – 7:00 PM
+  Thursday   : 8:00 AM – 12:00 PM  |  Not Available
+  Friday     : 8:00 AM – 12:00 PM  |  4:00 PM – 7:00 PM
+  Saturday   : 8:00 AM – 12:00 PM  |  Not Available
+  Sunday     : By Appointment Only
+
+Consultation Fee   : ₹1,000
+Follow-up Fee      : ₹500 (within 7 days)
+
+--------------------------------------------------------------------------------
+DR. NITHYA GOPALAKRISHNAN
+--------------------------------------------------------------------------------
+Designation        : Consultant – Gynecology
+Qualification      : MBBS, DGO, MD (OB-GYN)
+Experience         : 11 years
+Languages          : Tamil, English, Kannada
+Specialization     : Menstrual Disorders, Prenatal Care,
+                     Contraception Counselling, Menopausal Health
+
+Availability:
+  Monday     : Not Available        |  4:00 PM – 7:00 PM
+  Tuesday    : 9:00 AM – 1:00 PM   |  4:00 PM – 7:00 PM
+  Wednesday  : Not Available        |  Not Available
+  Thursday   : 9:00 AM – 1:00 PM   |  4:00 PM – 7:00 PM
+  Friday     : Not Available        |  4:00 PM – 7:00 PM
+  Saturday   : 9:00 AM – 12:00 PM  |  Not Available
+  Sunday     : Not Available
+
+Consultation Fee   : ₹700
+Follow-up Fee      : ₹350 (within 7 days)
+
+================================================================================
+DEPARTMENT 7: DERMATOLOGY
+================================================================================
+
+--------------------------------------------------------------------------------
+DR. KARTHIKEYAN VENKATESH
+--------------------------------------------------------------------------------
+Designation        : Senior Consultant – Dermatology & Cosmetology
+Qualification      : MBBS, MD (Dermatology, Venereology & Leprosy)
+Experience         : 14 years
+Languages          : Tamil, English, Hindi
+Specialization     : Acne, Psoriasis, Hair Loss, Skin Allergy,
+                     Laser Treatments, Chemical Peels, PRP Therapy
+
+Availability:
+  Monday     : 9:00 AM – 1:00 PM   |  5:00 PM – 8:00 PM
+  Tuesday    : Not Available        |  5:00 PM – 8:00 PM
+  Wednesday  : 9:00 AM – 1:00 PM   |  Not Available
+  Thursday   : 9:00 AM – 1:00 PM   |  5:00 PM – 8:00 PM
+  Friday     : Not Available        |  5:00 PM – 8:00 PM
+  Saturday   : 9:00 AM – 1:00 PM   |  Not Available
+  Sunday     : Not Available
+
+Consultation Fee   : ₹800
+Follow-up Fee      : ₹400 (within 7 days)
+
+================================================================================
+DEPARTMENT 8: OPHTHALMOLOGY (EYE)
+================================================================================
+
+--------------------------------------------------------------------------------
+DR. PADMAVATHI RAGHUNATHAN
+--------------------------------------------------------------------------------
+Designation        : Senior Consultant – Ophthalmology
+Qualification      : MBBS, MS (Ophthalmology), FICO (UK)
+Experience         : 15 years
+Languages          : Tamil, English
+Specialization     : Cataract Surgery, Glaucoma, Retinal Disorders,
+                     LASIK Evaluation, Diabetic Eye Disease
+
+Availability:
+  Monday     : 8:30 AM – 1:00 PM   |  4:30 PM – 7:30 PM
+  Tuesday    : 8:30 AM – 1:00 PM   |  Not Available
+  Wednesday  : Not Available        |  4:30 PM – 7:30 PM
+  Thursday   : 8:30 AM – 1:00 PM   |  4:30 PM – 7:30 PM
+  Friday     : 8:30 AM – 1:00 PM   |  Not Available
+  Saturday   : 9:00 AM – 12:00 PM  |  Not Available
+  Sunday     : 9:00 AM – 12:00 PM
+
+Consultation Fee   : ₹700
+Follow-up Fee      : ₹350 (within 7 days)
+
+================================================================================
+DEPARTMENT 9: ENT (EAR, NOSE & THROAT)
+================================================================================
+
+--------------------------------------------------------------------------------
+DR. BALASUBRAMANIAN IYER
+--------------------------------------------------------------------------------
+Designation        : Senior Consultant – ENT & Head-Neck Surgery
+Qualification      : MBBS, MS (ENT), DNB
+Experience         : 13 years
+Languages          : Tamil, English, Hindi
+Specialization     : Sinusitis, Tonsillectomy, Hearing Loss,
+                     Nasal Polyps, Snoring & Sleep Apnea, Head & Neck Tumors
+
+Availability:
+  Monday     : 9:00 AM – 1:00 PM   |  5:00 PM – 7:30 PM
+  Tuesday    : Not Available        |  5:00 PM – 7:30 PM
+  Wednesday  : 9:00 AM – 1:00 PM   |  Not Available
+  Thursday   : Not Available        |  5:00 PM – 7:30 PM
+  Friday     : 9:00 AM – 1:00 PM   |  5:00 PM – 7:30 PM
+  Saturday   : 9:00 AM – 12:00 PM  |  Not Available
+  Sunday     : Not Available
+
+Consultation Fee   : ₹700
+Follow-up Fee      : ₹350 (within 7 days)
+
+================================================================================
+DEPARTMENT 10: GASTROENTEROLOGY
+================================================================================
+
+--------------------------------------------------------------------------------
+DR. RAMESH CHANDRASEKARAN
+--------------------------------------------------------------------------------
+Designation        : Senior Consultant – Gastroenterology & Hepatology
+Qualification      : MBBS, MD (Medicine), DM (Gastroenterology)
+Experience         : 16 years
+Languages          : Tamil, English
+Specialization     : Liver Disease, IBS, IBD, Endoscopy,
+                     Colonoscopy, GERD, Fatty Liver
+
+Availability:
+  Monday     : 8:30 AM – 1:00 PM   |  5:00 PM – 7:30 PM
+  Tuesday    : Not Available        |  5:00 PM – 7:30 PM
+  Wednesday  : 8:30 AM – 1:00 PM   |  Not Available
+  Thursday   : 8:30 AM – 1:00 PM   |  5:00 PM – 7:30 PM
+  Friday     : Not Available        |  5:00 PM – 7:30 PM
+  Saturday   : 9:00 AM – 12:00 PM  |  Not Available
+  Sunday     : By Appointment Only
+
+Consultation Fee   : ₹1,000
+Follow-up Fee      : ₹500 (within 7 days)
+
+================================================================================
+DEPARTMENT 11: UROLOGY
+================================================================================
+
+--------------------------------------------------------------------------------
+DR. VIJAYAKUMAR NATARAJAN
+--------------------------------------------------------------------------------
+Designation        : Senior Consultant – Urology & Andrology
+Qualification      : MBBS, MS (General Surgery), MCh (Urology)
+Experience         : 14 years
+Languages          : Tamil, English
+Specialization     : Kidney Stones, Prostate Disorders, Urinary Incontinence,
+                     Robotic-Assisted Urology, Male Infertility
+
+Availability:
+  Monday     : 9:00 AM – 1:00 PM   |  5:00 PM – 7:00 PM
+  Tuesday    : Not Available        |  5:00 PM – 7:00 PM
+  Wednesday  : 9:00 AM – 1:00 PM   |  Not Available
+  Thursday   : Not Available        |  5:00 PM – 7:00 PM
+  Friday     : 9:00 AM – 1:00 PM   |  5:00 PM – 7:00 PM
+  Saturday   : 9:00 AM – 12:00 PM  |  Not Available
+  Sunday     : Not Available
+
+Consultation Fee   : ₹1,000
+Follow-up Fee      : ₹500 (within 7 days)
+
+================================================================================
+DEPARTMENT 12: NEPHROLOGY
+================================================================================
+
+--------------------------------------------------------------------------------
+DR. SARAVANAKUMAR DHANDAPANI
+--------------------------------------------------------------------------------
+Designation        : Consultant – Nephrology
+Qualification      : MBBS, MD (Medicine), DM (Nephrology)
+Experience         : 11 years
+Languages          : Tamil, English
+Specialization     : Chronic Kidney Disease, Dialysis Management,
+                     Kidney Transplant Evaluation, Glomerulonephritis
+
+Availability:
+  Monday     : 9:00 AM – 12:30 PM  |  5:00 PM – 7:00 PM
+  Tuesday    : Not Available        |  5:00 PM – 7:00 PM
+  Wednesday  : 9:00 AM – 12:30 PM  |  Not Available
+  Thursday   : Not Available        |  5:00 PM – 7:00 PM
+  Friday     : 9:00 AM – 12:30 PM  |  Not Available
+  Saturday   : Not Available
+  Sunday     : Not Available
+
+Consultation Fee   : ₹1,000
+Follow-up Fee      : ₹500 (within 7 days)
+
+================================================================================
+DEPARTMENT 13: PULMONOLOGY
+================================================================================
+
+--------------------------------------------------------------------------------
+DR. INDIRA KRISHNASWAMY
+--------------------------------------------------------------------------------
+Designation        : Senior Consultant – Pulmonology & Sleep Medicine
+Qualification      : MBBS, MD (Respiratory Medicine), FCCP (USA)
+Experience         : 15 years
+Languages          : Tamil, English
+Specialization     : Asthma, COPD, Tuberculosis, Lung Cancer Screening,
+                     Sleep Apnea, Interstitial Lung Disease
+
+Availability:
+  Monday     : 8:00 AM – 12:30 PM  |  4:30 PM – 7:00 PM
+  Tuesday    : Not Available        |  4:30 PM – 7:00 PM
+  Wednesday  : 8:00 AM – 12:30 PM  |  Not Available
+  Thursday   : Not Available        |  4:30 PM – 7:00 PM
+  Friday     : 8:00 AM – 12:30 PM  |  4:30 PM – 7:00 PM
+  Saturday   : 8:00 AM – 12:00 PM  |  Not Available
+  Sunday     : Not Available
+
+Consultation Fee   : ₹900
+Follow-up Fee      : ₹450 (within 7 days)
+
+================================================================================
+DEPARTMENT 14: PSYCHIATRY & MENTAL HEALTH
+================================================================================
+
+--------------------------------------------------------------------------------
+DR. ANAND THIRUMALAI
+--------------------------------------------------------------------------------
+Designation        : Senior Consultant – Psychiatry
+Qualification      : MBBS, MD (Psychiatry), DPM
+Experience         : 13 years
+Languages          : Tamil, English, Hindi
+Specialization     : Depression, Anxiety, Bipolar Disorder,
+                     OCD, Schizophrenia, De-Addiction, Child Psychiatry
+
+Availability:
+  Monday     : 10:00 AM – 1:00 PM  |  5:00 PM – 7:00 PM
+  Tuesday    : Not Available        |  5:00 PM – 7:00 PM
+  Wednesday  : 10:00 AM – 1:00 PM  |  Not Available
+  Thursday   : Not Available        |  5:00 PM – 7:00 PM
+  Friday     : 10:00 AM – 1:00 PM  |  Not Available
+  Saturday   : Not Available
+  Sunday     : Not Available
+
+Consultation Fee   : ₹900
+Follow-up Fee      : ₹450 (within 7 days)
+
+================================================================================
+DEPARTMENT 15: ENDOCRINOLOGY
+================================================================================
+
+--------------------------------------------------------------------------------
+DR. MALATHI PARTHASARATHY
+--------------------------------------------------------------------------------
+Designation        : Consultant – Endocrinology & Diabetology
+Qualification      : MBBS, MD (Medicine), DM (Endocrinology)
+Experience         : 12 years
+Languages          : Tamil, English
+Specialization     : Type 1 & Type 2 Diabetes, Thyroid Disorders,
+                     Adrenal Disorders, Osteoporosis, Hormonal Imbalances
+
+Availability:
+  Monday     : 9:00 AM – 1:00 PM   |  Not Available
+  Tuesday    : Not Available        |  5:00 PM – 7:00 PM
+  Wednesday  : 9:00 AM – 1:00 PM   |  5:00 PM – 7:00 PM
+  Thursday   : Not Available        |  5:00 PM – 7:00 PM
+  Friday     : 9:00 AM – 1:00 PM   |  Not Available
+  Saturday   : 9:00 AM – 12:00 PM  |  Not Available
+  Sunday     : Not Available
+
+Consultation Fee   : ₹900
+Follow-up Fee      : ₹450 (within 7 days)
+
+================================================================================
+DEPARTMENT 16: ONCOLOGY (CANCER CARE)
+================================================================================
+
+--------------------------------------------------------------------------------
+DR. SELVAKUMAR ARUMUGAM
+--------------------------------------------------------------------------------
+Designation        : Senior Consultant – Medical Oncology
+Qualification      : MBBS, MD (Medicine), DM (Medical Oncology)
+Experience         : 18 years
+Languages          : Tamil, English
+Specialization     : Breast Cancer, Lung Cancer, GI Cancers,
+                     Chemotherapy, Targeted Therapy, Palliative Oncology
+
+Availability:
+  Monday     : 9:00 AM – 1:00 PM   |  4:00 PM – 6:00 PM
+  Wednesday  : 9:00 AM – 1:00 PM   |  4:00 PM – 6:00 PM
+  Friday     : 9:00 AM – 1:00 PM   |  Not Available
+  Saturday   : Not Available
+  Sunday     : By Appointment Only
+  (Not available Tuesday & Thursday)
+
+Consultation Fee   : ₹1,200
+Follow-up Fee      : ₹600 (within 7 days)
+
+================================================================================
+DEPARTMENT 17: GENERAL SURGERY
+================================================================================
+
+--------------------------------------------------------------------------------
+DR. THIRUMARAN GOVINDASAMY
+--------------------------------------------------------------------------------
+Designation        : Senior Consultant – General & Laparoscopic Surgery
+Qualification      : MBBS, MS (General Surgery), FMAS
+Experience         : 17 years
+Languages          : Tamil, English, Hindi
+Specialization     : Laparoscopic Appendectomy, Hernia Repair,
+                     Gallbladder Surgery, Thyroid Surgery, Wound Care
+
+Availability:
+  Monday     : 8:00 AM – 1:00 PM   |  4:30 PM – 7:30 PM
+  Tuesday    : Not Available        |  4:30 PM – 7:30 PM
+  Wednesday  : 8:00 AM – 1:00 PM   |  Not Available
+  Thursday   : Not Available        |  4:30 PM – 7:30 PM
+  Friday     : 8:00 AM – 1:00 PM   |  4:30 PM – 7:30 PM
+  Saturday   : 8:00 AM – 12:00 PM  |  Not Available
+  Sunday     : By Appointment Only
+
+Consultation Fee   : ₹800
+Follow-up Fee      : ₹400 (within 7 days)
+
+================================================================================
+DEPARTMENT 18: DENTAL & ORAL HEALTH
+================================================================================
+
+--------------------------------------------------------------------------------
+DR. REVATHI SURESH KUMAR
+--------------------------------------------------------------------------------
+Designation        : Senior Consultant – Prosthodontics & Implantology
+Qualification      : BDS, MDS (Prosthodontics)
+Experience         : 12 years
+Languages          : Tamil, English
+Specialization     : Dental Implants, Crowns & Bridges,
+                     Complete Dentures, Smile Designing, Full Mouth Rehab
+
+Availability:
+  Monday     : 9:00 AM – 1:00 PM   |  4:30 PM – 8:00 PM
+  Tuesday    : 9:00 AM – 1:00 PM   |  4:30 PM – 8:00 PM
+  Wednesday  : Not Available        |  4:30 PM – 8:00 PM
+  Thursday   : 9:00 AM – 1:00 PM   |  Not Available
+  Friday     : 9:00 AM – 1:00 PM   |  4:30 PM – 8:00 PM
+  Saturday   : 9:00 AM – 1:00 PM   |  Not Available
+  Sunday     : 9:00 AM – 12:00 PM
+
+Consultation Fee   : ₹500
+Follow-up Fee      : ₹250 (within 7 days)
+
+--------------------------------------------------------------------------------
+DR. ARUN PRASATH MOHAN
+--------------------------------------------------------------------------------
+Designation        : Consultant – Orthodontist & Oral Surgeon
+Qualification      : BDS, MDS (Orthodontics)
+Experience         : 8 years
+Languages          : Tamil, English
+Specialization     : Braces, Clear Aligners, Wisdom Tooth Extraction,
+                     Jaw Surgeries, Root Canal Treatment
+
+Availability:
+  Monday     : Not Available        |  4:30 PM – 8:00 PM
+  Tuesday    : Not Available        |  4:30 PM – 8:00 PM
+  Wednesday  : 10:00 AM – 1:00 PM  |  4:30 PM – 8:00 PM
+  Thursday   : Not Available        |  4:30 PM – 8:00 PM
+  Friday     : Not Available        |  4:30 PM – 8:00 PM
+  Saturday   : 10:00 AM – 1:00 PM  |  Not Available
+  Sunday     : Not Available
+
+Consultation Fee   : ₹500
+Follow-up Fee      : ₹250 (within 7 days)
+
+================================================================================
+DEPARTMENT 19: PHYSIOTHERAPY & REHABILITATION
+================================================================================
+
+--------------------------------------------------------------------------------
+DR. GEETHA BALAJI
+--------------------------------------------------------------------------------
+Designation        : Chief Physiotherapist & Rehabilitation Specialist
+Qualification      : BPT, MPT (Neurological Rehabilitation)
+Experience         : 14 years
+Languages          : Tamil, English
+Specialization     : Post-Stroke Rehabilitation, Sports Injury Recovery,
+                     Back & Neck Pain, Post-Surgical Rehab, Pediatric Physio
+
+Availability:
+  Monday     : 7:00 AM – 1:00 PM   |  3:00 PM – 7:00 PM
+  Tuesday    : 7:00 AM – 1:00 PM   |  3:00 PM – 7:00 PM
+  Wednesday  : 7:00 AM – 1:00 PM   |  3:00 PM – 7:00 PM
+  Thursday   : 7:00 AM – 1:00 PM   |  3:00 PM – 7:00 PM
+  Friday     : 7:00 AM – 1:00 PM   |  3:00 PM – 7:00 PM
+  Saturday   : 7:00 AM – 1:00 PM   |  Not Available
+  Sunday     : 8:00 AM – 12:00 PM
+
+Consultation Fee   : ₹400 (initial assessment)
+Per Session Fee    : ₹300 per session
+Follow-up Fee      : ₹200 (within 7 days)
+
+================================================================================
+QUICK REFERENCE: DOCTOR FEE SUMMARY
+================================================================================
+
+┌──────────────────────────────────────┬───────────────────────────┬──────────┬───────────┐
+│ DOCTOR NAME                          │ DEPARTMENT                │ FEE (₹)  │ FOLLOW-UP │
+├──────────────────────────────────────┼───────────────────────────┼──────────┼───────────┤
+│ Dr. Rajesh Kumar Narayanan           │ General Medicine          │ ₹500     │ ₹250      │
+│ Dr. Meenakshi Subramaniam            │ General Medicine          │ ₹400     │ ₹200      │
+│ Dr. Senthil Kumar Anandan            │ Cardiology                │ ₹1,200   │ ₹600      │
+│ Dr. Priya Venkataraman               │ Cardiology                │ ₹900     │ ₹450      │
+│ Dr. Arjun Balakrishnan               │ Neurology                 │ ₹1,100   │ ₹550      │
+│ Dr. Kavitha Ramachandran             │ Neurology                 │ ₹900     │ ₹450      │
+│ Dr. Murugesan Pillai                 │ Orthopedics               │ ₹1,000   │ ₹500      │
+│ Dr. Anitha Selvam                    │ Orthopedics               │ ₹700     │ ₹350      │
+│ Dr. Suresh Babu Krishnamurthy        │ Pediatrics                │ ₹600     │ ₹300      │
+│ Dr. Deepa Annamalai                  │ Pediatrics                │ ₹500     │ ₹250      │
+│ Dr. Lakshmi Priya Sundaram           │ OB-GYN                    │ ₹1,000   │ ₹500      │
+│ Dr. Nithya Gopalakrishnan            │ OB-GYN                    │ ₹700     │ ₹350      │
+│ Dr. Karthikeyan Venkatesh            │ Dermatology               │ ₹800     │ ₹400      │
+│ Dr. Padmavathi Raghunathan           │ Ophthalmology             │ ₹700     │ ₹350      │
+│ Dr. Balasubramanian Iyer             │ ENT                       │ ₹700     │ ₹350      │
+│ Dr. Ramesh Chandrasekaran            │ Gastroenterology          │ ₹1,000   │ ₹500      │
+│ Dr. Vijayakumar Natarajan            │ Urology                   │ ₹1,000   │ ₹500      │
+│ Dr. Saravanakumar Dhandapani         │ Nephrology                │ ₹1,000   │ ₹500      │
+│ Dr. Indira Krishnaswamy              │ Pulmonology               │ ₹900     │ ₹450      │
+│ Dr. Anand Thirumalai                 │ Psychiatry                │ ₹900     │ ₹450      │
+│ Dr. Malathi Parthasarathy            │ Endocrinology             │ ₹900     │ ₹450      │
+│ Dr. Selvakumar Arumugam              │ Oncology                  │ ₹1,200   │ ₹600      │
+│ Dr. Thirumaran Govindasamy           │ General Surgery           │ ₹800     │ ₹400      │
+│ Dr. Revathi Suresh Kumar             │ Dental                    │ ₹500     │ ₹250      │
+│ Dr. Arun Prasath Mohan               │ Dental                    │ ₹500     │ ₹250      │
+│ Dr. Geetha Balaji                    │ Physiotherapy             │ ₹400     │ ₹200      │
+└──────────────────────────────────────┴───────────────────────────┴──────────┴───────────┘
+
+================================================================================
+                   END OF DOCTOR PROFILES KNOWLEDGE BASE v1.0
+          For updates or corrections, contact: admin@citycarehosp.in
+          Appointment Booking: +91-44-2800-2000 | www.citycarehosp.in
+================================================================================

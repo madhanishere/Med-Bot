@@ -1,0 +1,315 @@
+================================================================================
+                        CITY CARE GENERAL HOSPITAL
+                          KNOWLEDGE BASE - v1.0
+================================================================================
+
+--------------------------------------------------------------------------------
+1. HOSPITAL OVERVIEW & LOCATION
+--------------------------------------------------------------------------------
+
+Hospital Name     : City Care General Hospital
+Type              : Multi-Specialty Hospital
+Established       : 2005
+Registration No.  : HOSP-TN-2005-04821
+NABH Accredited   : Yes
+
+Address:
+  No. 14, Health Avenue, Anna Nagar,
+  Chennai, Tamil Nadu – 600 040
+  India
+
+Landmarks:
+  - Opposite to Anna Nagar Metro Station (Blue Line)
+  - 2 minutes walk from Anna Nagar Tower Park
+  - Near Roundtana Signal, Anna Nagar East
+
+Contact Numbers:
+  Main Reception       : +91-44-2800-1000
+  Emergency (24x7)     : +91-44-2800-9999
+  Ambulance            : +91-44-2800-1122
+  Appointment Booking  : +91-44-2800-2000
+  Front Desk           : +91-44-2800-1001
+
+Email:
+  General Enquiry      : info@citycarehosp.in
+  Appointments         : appointments@citycarehosp.in
+  Billing              : billing@citycarehosp.in
+  Administration       : admin@citycarehosp.in
+  Grievances           : grievance@citycarehosp.in
+
+Website              : www.citycarehosp.in
+
+How to Reach:
+  By Metro  : Anna Nagar Metro Station (Blue Line) – 2 min walk
+  By Bus    : MTC Routes 23, 27C, 70 – Stop: Anna Nagar Tower
+  By Car    : GPS coordinate – 13.0850° N, 80.2101° E
+  Parking   : Basement & Open-air parking available (paid, token-based)
+
+--------------------------------------------------------------------------------
+2. HOSPITAL TIMINGS (OUTPATIENT / OP)
+--------------------------------------------------------------------------------
+
+General OP Timings:
+  Monday – Saturday   : 7:00 AM – 9:00 PM
+  Sunday              : 8:00 AM – 2:00 PM
+  Public Holidays     : Emergency services only
+
+Morning Session     : 7:00 AM – 1:00 PM
+Evening Session     : 4:00 PM – 9:00 PM
+
+Token / Registration Counter:
+  Monday – Saturday   : 6:30 AM – 8:30 PM
+  Sunday              : 7:30 AM – 1:30 PM
+  (Tokens are issued 30 minutes before OP session begins)
+
+Appointment Booking:
+  Online              : www.citycarehosp.in/appointments (24x7)
+  Phone               : +91-44-2800-2000 (7:00 AM – 8:00 PM)
+  Walk-in             : Subject to doctor availability and token availability
+
+Emergency & Casualty:
+  Open                : 24 Hours / 7 Days / 365 Days
+  No appointment required for emergencies
+
+--------------------------------------------------------------------------------
+3. DEPARTMENTS AND THEIR TIMINGS
+--------------------------------------------------------------------------------
+
+All departments operate Monday – Saturday unless noted otherwise.
+Sunday availability marked separately.
+
+┌─────────────────────────────────────┬───────────────────┬───────────────────┬──────────────┐
+│ DEPARTMENT                          │ MORNING SESSION   │ EVENING SESSION   │ SUNDAY       │
+├─────────────────────────────────────┼───────────────────┼───────────────────┼──────────────┤
+│ General Medicine                    │ 7:00 AM – 1:00 PM │ 4:00 PM – 8:00 PM │ 8 AM – 12 PM │
+│ Cardiology (Heart)                  │ 8:00 AM – 1:00 PM │ 5:00 PM – 8:00 PM │ By Appt Only │
+│ Neurology (Brain & Spine)           │ 9:00 AM – 1:00 PM │ 5:00 PM – 7:30 PM │ Closed       │
+│ Orthopedics (Bones & Joints)        │ 8:00 AM – 1:00 PM │ 4:30 PM – 8:00 PM │ 9 AM – 12 PM │
+│ Pediatrics (Children)               │ 7:30 AM – 1:00 PM │ 4:00 PM – 8:00 PM │ 8 AM – 12 PM │
+│ Obstetrics & Gynecology (OB-GYN)    │ 8:00 AM – 1:00 PM │ 4:00 PM – 7:00 PM │ By Appt Only │
+│ Dermatology (Skin)                  │ 9:00 AM – 1:00 PM │ 5:00 PM – 8:00 PM │ Closed       │
+│ Ophthalmology (Eye)                 │ 8:30 AM – 1:00 PM │ 4:30 PM – 7:30 PM │ 9 AM – 12 PM │
+│ ENT (Ear, Nose & Throat)            │ 9:00 AM – 1:00 PM │ 5:00 PM – 7:30 PM │ Closed       │
+│ Urology                             │ 9:00 AM – 1:00 PM │ 5:00 PM – 7:00 PM │ Closed       │
+│ Gastroenterology (Stomach & Liver)  │ 8:30 AM – 1:00 PM │ 5:00 PM – 7:30 PM │ By Appt Only │
+│ Nephrology (Kidney)                 │ 9:00 AM – 12:30 PM│ 5:00 PM – 7:00 PM │ Closed       │
+│ Pulmonology (Lungs)                 │ 8:00 AM – 12:30 PM│ 4:30 PM – 7:00 PM │ Closed       │
+│ Psychiatry & Mental Health          │ 10:00 AM – 1:00 PM│ 5:00 PM – 7:00 PM │ Closed       │
+│ Endocrinology (Diabetes & Hormones) │ 9:00 AM – 1:00 PM │ 5:00 PM – 7:00 PM │ Closed       │
+│ Rheumatology (Joint Disorders)      │ 10:00 AM – 1:00 PM│ Closed            │ Closed       │
+│ Oncology (Cancer Care)              │ 9:00 AM – 1:00 PM │ 4:00 PM – 6:00 PM │ By Appt Only │
+│ General Surgery                     │ 8:00 AM – 1:00 PM │ 4:30 PM – 7:30 PM │ By Appt Only │
+│ Plastic & Reconstructive Surgery    │ 10:00 AM – 1:00 PM│ Closed            │ Closed       │
+│ Dental & Oral Health                │ 9:00 AM – 1:00 PM │ 4:30 PM – 8:00 PM │ 9 AM – 12 PM │
+│ Physiotherapy & Rehabilitation      │ 7:00 AM – 1:00 PM │ 3:00 PM – 7:00 PM │ 8 AM – 12 PM │
+│ Dietetics & Nutrition               │ 9:00 AM – 1:00 PM │ 4:00 PM – 6:00 PM │ Closed       │
+│ Radiology & Imaging                 │ 7:00 AM – 9:00 PM │ (Continuous)      │ 8 AM – 2 PM  │
+│ Laboratory / Pathology              │ 6:00 AM – 9:00 PM │ (Continuous)      │ 7 AM – 2 PM  │
+│ Pharmacy (In-House)                 │ 7:00 AM – 10:00 PM│ (Continuous)      │ 8 AM – 8 PM  │
+│ Emergency & Casualty                │ Open 24x7         │ Open 24x7         │ Open 24x7    │
+│ ICU / Critical Care                 │ Open 24x7         │ Open 24x7         │ Open 24x7    │
+└─────────────────────────────────────┴───────────────────┴───────────────────┴──────────────┘
+
+Notes:
+  - Doctor schedules may vary. Always confirm via appointment booking.
+  - "By Appt Only" on Sunday means walk-ins are not accepted; prior booking is mandatory.
+  - Radiology and Lab services run on a continuous morning-to-evening schedule.
+
+--------------------------------------------------------------------------------
+4. VISITOR RULES & REGULATIONS
+--------------------------------------------------------------------------------
+
+GENERAL VISITING HOURS:
+  Morning Visit  : 8:00 AM – 10:00 AM
+  Evening Visit  : 5:00 PM – 7:00 PM
+  ICU / NICU     : 9:00 AM – 10:00 AM and 6:00 PM – 7:00 PM (10 minutes only)
+
+VISITOR PASS:
+  - All visitors must collect a Visitor Pass from the Reception Desk.
+  - A valid government-issued photo ID (Aadhaar, Voter ID, Passport) is mandatory.
+  - Pass must be worn visibly at all times within the hospital premises.
+  - Passes are non-transferable.
+
+NUMBER OF VISITORS ALLOWED:
+  - General Ward        : Maximum 2 visitors per patient at a time
+  - Private / Semi-Private Room : Maximum 2 visitors at a time
+  - ICU / NICU / CCU    : Maximum 1 attendant (immediate family only)
+  - Operation Theatre (OT) waiting: 1 family member permitted in designated waiting area
+
+RESTRICTED AREAS (No visitors allowed):
+  - Intensive Care Unit (ICU) – except during designated hours
+  - Neonatal ICU (NICU)
+  - Operation Theatre (OT) and Recovery Room
+  - Sterile zones and Procedure Rooms
+  - Pharmacy, Laboratory, and Radiology rooms
+
+CHILDREN VISITORS:
+  - Children below 12 years are not permitted inside wards or ICU.
+  - Children must remain in the designated waiting area with an adult guardian.
+
+CONDUCT & HYGIENE:
+  - Visitors must sanitize hands at the entrance of every ward.
+  - Face masks are recommended; mandatory for ICU and isolation wards.
+  - Loud talking, use of mobile phones near medical equipment, and smoking are strictly prohibited.
+  - No outside food is allowed in ICU, NICU, and isolation rooms.
+  - Alcohol and tobacco are strictly prohibited anywhere on hospital premises.
+
+ATTENDANT POLICY:
+  - One designated attendant is permitted to stay overnight with the patient.
+  - Attendant must register at the ward nurse station and carry a valid ID.
+  - Attendant cot / recliner chair will be provided on request.
+  - Additional attendants may be asked to leave after visiting hours.
+
+PHOTOGRAPHY & RECORDING:
+  - Photography or video recording of patients, staff, or medical procedures is strictly prohibited without written consent.
+  - Violation may result in removal from premises.
+
+GIFTS & FLOWERS:
+  - Fresh flowers are not permitted in ICU and NICU areas due to infection risk.
+  - Food items from outside are permitted in general wards only if sealed and commercially packaged.
+
+--------------------------------------------------------------------------------
+5. FACILITIES AVAILABLE
+--------------------------------------------------------------------------------
+
+CLINICAL FACILITIES:
+  ✔ 24x7 Emergency & Trauma Care
+  ✔ Intensive Care Unit (ICU) – 20 beds
+  ✔ Neonatal ICU (NICU) – 10 beds
+  ✔ Cardiac Care Unit (CCU) – 8 beds
+  ✔ Operation Theatres – 6 fully equipped OTs
+  ✔ Modular OT with laminar airflow
+  ✔ Labour & Delivery Rooms – 4 rooms
+  ✔ Isolation Rooms for infectious disease management
+  ✔ Dialysis Unit – 8 stations (by appointment)
+  ✔ Chemotherapy Day Care Unit
+  ✔ Endoscopy & Bronchoscopy Suite
+  ✔ Catheterization Lab (Cath Lab) for cardiac procedures
+
+DIAGNOSTIC FACILITIES:
+  ✔ Digital X-Ray
+  ✔ Ultrasound & Color Doppler
+  ✔ CT Scan (128-slice)
+  ✔ MRI (1.5 Tesla)
+  ✔ Mammography
+  ✔ Echocardiography (2D Echo)
+  ✔ Electrocardiography (ECG)
+  ✔ Pulmonary Function Test (PFT)
+  ✔ Fully automated NABL-accredited Laboratory
+  ✔ Blood Bank (licensed)
+
+PATIENT ACCOMMODATION:
+  ✔ General Ward (shared – 6 beds per room)
+  ✔ Semi-Private Ward (2 beds per room)
+  ✔ Private Rooms (single occupancy, AC)
+  ✔ Deluxe Rooms (single occupancy, AC, attached bathroom, TV, sofa)
+  ✔ Suite Rooms (premium, separate lounge area)
+  ✔ Total Bed Capacity: 350 beds
+
+PATIENT SUPPORT SERVICES:
+  ✔ In-house Pharmacy (open till 10 PM; 24x7 for emergency medicines)
+  ✔ Physiotherapy & Rehabilitation Centre
+  ✔ Dietetics & Clinical Nutrition Counselling
+  ✔ Medical Social Worker
+  ✔ Palliative Care Team
+  ✔ Patient Counselling Room (private)
+
+GENERAL AMENITIES:
+  ✔ Free Wi-Fi throughout the hospital
+  ✔ Cafeteria (Ground Floor) – 7:00 AM to 9:00 PM
+  ✔ Canteen for attendants (24x7)
+  ✔ ATM (SBI & HDFC) – near main lobby
+  ✔ Prayer / Meditation Room – 2nd Floor
+  ✔ Waiting Lounges on every floor
+  ✔ Drinking water (RO filtered) dispensers on all floors
+  ✔ Wheelchair & stretcher facility at main entrance
+  ✔ Elevator / Lift – 4 passenger lifts, 1 service lift
+  ✔ Accessible ramps & facilities for differently-abled patients
+  ✔ CCTV surveillance throughout the premises
+
+TRANSPORT & AMBULANCE:
+  ✔ 24x7 Ambulance Service – call +91-44-2800-1122
+  ✔ Advanced Life Support (ALS) Ambulance: 2 units
+  ✔ Basic Life Support (BLS) Ambulance: 3 units
+  ✔ Tie-up with Ola Health & local cab services for non-emergency transfers
+
+TELE-MEDICINE:
+  ✔ Video Consultation available for select departments
+  ✔ Book via website or app: www.citycarehosp.in/teleconsult
+  ✔ Available Monday – Saturday, 9:00 AM – 6:00 PM
+
+--------------------------------------------------------------------------------
+6. BILLING & PAYMENTS
+--------------------------------------------------------------------------------
+
+BILLING COUNTER TIMINGS:
+  Monday – Saturday   : 7:00 AM – 9:00 PM
+  Sunday              : 8:00 AM – 2:00 PM
+  Emergency Billing   : 24x7 (for emergency admissions)
+
+MODES OF PAYMENT ACCEPTED:
+  ✔ Cash
+  ✔ Credit Card (Visa, Mastercard, American Express, RuPay)
+  ✔ Debit Card
+  ✔ UPI (Google Pay, PhonePe, Paytm, BHIM)
+  ✔ Net Banking
+  ✔ NEFT / RTGS (for large bill settlements)
+  ✔ Demand Draft (in favour of "City Care General Hospital")
+  ✘ Cheques are NOT accepted for OP billing; accepted only for corporate empanelment accounts
+
+INSURANCE & CASHLESS FACILITY:
+  - Cashless treatment available for all major insurance providers.
+  - Dedicated Insurance Desk at Ground Floor, Counter No. 4.
+  - Insurance Desk Timings: Monday – Saturday, 9:00 AM – 6:00 PM
+  - Pre-authorization request must be submitted at least 4 hours before elective procedures.
+  - Emergency cashless: Insurance desk initiates process immediately on admission.
+
+Empanelled Insurance Providers (major):
+  Star Health | United India | New India Assurance | Oriental Insurance
+  National Insurance | HDFC ERGO | Bajaj Allianz | ICICI Lombard
+  Medi Assist | Paramount Health | Vipul Medcorp | Religare (Care Health)
+  Niva Bupa | ECHS | CGHS | ESI (Employees' State Insurance)
+
+CORPORATE EMPANELMENT:
+  - Over 80 corporates are empanelled for cashless/credit billing.
+  - HR letter or employee ID from empanelled companies must be presented at admission.
+  - Corporate Billing Desk: Ground Floor, Counter No. 5
+  - For new empanelment enquiries: billing@citycarehosp.in
+
+ADVANCE DEPOSIT POLICY:
+  - An advance deposit is required at the time of admission for planned procedures.
+  - General Ward Admission Advance   : ₹5,000
+  - Semi-Private / Private Room      : ₹10,000
+  - Deluxe / Suite Room              : ₹15,000 – ₹25,000
+  - ICU Admission Advance            : ₹20,000
+  - Surgery / Procedure Advance      : As per estimated cost (provided in writing)
+  - Advance amount is adjusted against final bill at discharge.
+
+DISCHARGE & FINAL BILLING:
+  - Discharge request must be placed with the ward nurse or doctor.
+  - Final bill is generated within 2–4 hours of discharge request.
+  - Bill review and clarification: Billing Counter, Ground Floor
+  - Itemized bill available on request.
+  - Discharge summary and medical records issued at discharge.
+
+REFUNDS:
+  - Excess advance amount is refunded at the time of discharge.
+  - Refunds via original payment mode (cash refund for cash payments; online refund for card/UPI within 5–7 working days).
+  - Insurance refund (if pre-auth exceeds actual bill): processed within 15 working days.
+
+OP CONSULTATION FEE RANGE (approximate):
+  General Physician          : ₹300 – ₹500
+  Specialist Consultation    : ₹500 – ₹800
+  Senior Consultant          : ₹800 – ₹1,200
+  Super Specialist           : ₹1,000 – ₹1,500
+  Follow-up (within 7 days)  : 50% concession on consultation fee
+
+BILLING HELPLINE:
+  Phone   : +91-44-2800-1003
+  Email   : billing@citycarehosp.in
+  Timings : Monday – Saturday, 8:00 AM – 8:00 PM
+
+================================================================================
+                     END OF KNOWLEDGE BASE DOCUMENT v1.0
+          For updates or corrections, contact: admin@citycarehosp.in
+================================================================================
