@@ -7,8 +7,6 @@ st.set_page_config(page_title="Med-Bot", layout="centered")
 chat_brutalism_css = """
 <style>
     * { font-weight: 700 !important; }
-
-
     .stButton > button, 
     [data-testid="stFormSubmitButton"] button {
         background-color: #FFFFFF !important; 
@@ -79,6 +77,48 @@ chat_brutalism_css = """
         border: 3px solid #000000 !important;
         box-shadow: 6px 6px 0px #000000 !important;
     }
+    [data-testid="stExpander"] {
+        border: 3px solid #000000 !important;
+        border-radius: 0px !important;
+        box-shadow: 5px 5px 0px #000000 !important;
+        background-color: #FFFFFF !important;
+        margin-top: 15px !important;
+    }
+
+    [data-testid="stExpander"] summary {
+        background-color: #FFFFFF !important;
+        border-bottom: 2px solid #000000 !important; 
+        border-radius: 0px !important;
+        padding: 10px !important;
+    }
+
+
+    [data-testid="stExpander"] summary:hover {
+        background-color: #000000 !important;
+        color: #FFFFFF !important;
+    }
+    
+    [data-testid="stExpander"] summary:hover p {
+        color: #FFFFFF !important;
+    }
+
+    /* --- 2. Brutalize the Chat Bubbles --- */
+    /* Remove the default soft background colors Streamlit uses */
+    [data-testid="stChatMessageContent"] {
+        background-color: #FFFFFF !important;
+        border: 3px solid #000000 !important;
+        border-radius: 0px !important;
+        box-shadow: 4px 4px 0px #000000 !important;
+        padding: 15px !important;
+    }
+
+    /* Optional: Make the User's message a harsh yellow to stand out from the AI */
+    [data-testid="stChatMessage"]:has([data-testid="stIconUser"]) [data-testid="stChatMessageContent"] {
+        background-color: #FAFF00 !important; 
+    }
+    [data-testid="stChatMessage"] {
+        align-items: center !important;
+    }
 </style>
 """
 
@@ -145,6 +185,13 @@ st.markdown(f"**Chatting as:** `{st.session_state.current_role}`")
 for message in st.session_state.messages:
     with st.chat_message(message["role"]):
         st.markdown(message["content"])
+        
+        if st.session_state.current_role == "Admin" and "citations" in message and message["citations"]:
+            with st.expander("📚 View Document Sources"):
+                for idx, citation in enumerate(message["citations"]):
+                    st.markdown(f"**Source {idx + 1}:** `{citation['file']}` (Page {citation['page']})")
+                    st.caption(f"> {citation['content_preview']}")
+                    st.markdown("---")
 
 if prompt := st.chat_input("Ask a question..."):
     with st.chat_message("user"):
@@ -154,7 +201,25 @@ if prompt := st.chat_input("Ask a question..."):
 
     with st.chat_message("assistant"):
         with st.spinner("Thinking..."):
-            response = get_chat_response(prompt, st.session_state.current_role)
-            st.markdown(response)
+            api_data = get_chat_response(prompt, st.session_state.current_role)
+            
+            if isinstance(api_data, dict):
+                bot_answer = api_data.get("answer", "Error generating response.")
+                citations = api_data.get("citations", [])
+            else:
+                bot_answer = str(api_data)
+                citations = []
 
-    st.session_state.messages.append({"role": "assistant", "content": response})
+            st.markdown(bot_answer)
+            
+            if citations and st.session_state.current_role == "Admin":
+                with st.expander("View Document Sources"):
+                    for idx, citation in enumerate(citations):
+                        st.markdown(f"**Source {idx + 1}:** `{citation['file']}`")
+                        break
+
+    st.session_state.messages.append({
+        "role": "assistant", 
+        "content": bot_answer,
+        "citations": citations
+    })

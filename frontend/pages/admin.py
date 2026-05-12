@@ -66,7 +66,6 @@ monochrome_brutalism_css = """
         border-radius: 0px !important;
     }
 
-
     div[data-baseweb="input"]:focus-within,
     div[data-baseweb="textarea"]:focus-within {
         transform: translate(2px, 2px);
