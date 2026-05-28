@@ -1,6 +1,6 @@
 import requests
 
-API_URL = "http://localhost:8000"
+API_URL = "https://med-bot-vsmf.onrender.com"
 
 def get_chat_response(question: str, role: str):
 

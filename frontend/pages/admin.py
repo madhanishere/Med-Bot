@@ -128,7 +128,7 @@ if not st.session_state.logged_in:
         if submit_button:
             try:
                 response = requests.post(
-                    "http://localhost:8000/login",
+                    "https://med-bot-vsmf.onrender.com/login",
                     json={"username": username, "password": password},
                 )
 
@@ -168,7 +168,7 @@ else:
                         )
                     }
                     response = requests.post(
-                        "http://localhost:8000/upload", files=files
+                        "https://med-bot-vsmf.onrender.com/upload", files=files
                     )
                     response.raise_for_status()
                     st.success(response.json()["message"])
@@ -192,7 +192,7 @@ else:
                 with st.spinner("Learning new information..."):
                     try:
                         response = requests.post(
-                            "http://localhost:8000/update-faq",
+                            "https://med-bot-vsmf.onrender.com/update-faq",
                             json={"content": new_content},
                         )
                         response.raise_for_status()
