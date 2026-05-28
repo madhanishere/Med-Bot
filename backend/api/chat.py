@@ -1,5 +1,6 @@
-from fastapi import APIRouter, Request
+from fastapi import APIRouter, Request, HTTPException
 from pydantic import BaseModel
+from services.database import SessionLocal, ChatLog
 
 router = APIRouter()
 
@@ -34,6 +35,22 @@ async def chat_endpoint(request: Request, payload: ChatRequest):
             })
 
     unique_citations = [dict(t) for t in {tuple(d.items()) for d in citations}]
+
+    # Save to Database
+    db = SessionLocal()
+    try:
+        new_log = ChatLog(
+            role=payload.role,
+            question=payload.message,
+            answer=response["answer"]
+        )
+        db.add(new_log)
+        db.commit()
+    except Exception as e:
+        print(f"Error saving to database: {e}")
+        db.rollback()
+    finally:
+        db.close()
 
     return {
         "answer": response["answer"],
