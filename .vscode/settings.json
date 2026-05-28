@@ -1,0 +1,6 @@
+{
+    "python.defaultInterpreterPath": "/Users/madhanraghuram/Desktop/Python/Med-Bot/.venv/bin/python",
+    "python.analysis.extraPaths": [
+        "/Users/madhanraghuram/Desktop/Python/Med-Bot/.venv/lib/python3.11/site-packages"
+    ]
+}

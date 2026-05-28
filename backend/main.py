@@ -2,9 +2,7 @@ from fastapi import FastAPI
 import os
 from dotenv import load_dotenv
 from langchain_community.vectorstores import FAISS
-
-from langchain_huggingface import HuggingFaceEmbeddings
-
+from langchain_google_genai import GoogleGenerativeAIEmbeddings
 
 from services.rag_engine import setup_rag_chain
 from api import chat, upload, auth, faq
@@ -31,8 +29,8 @@ async def startup_event():
     print("FAISS PATH:", db_path)
     print("EXISTS:", os.path.exists(db_path))
 
-    embeddings = HuggingFaceEmbeddings(
-        model_name="sentence-transformers/all-MiniLM-L6-v2"
+    embeddings = GoogleGenerativeAIEmbeddings(
+        model="models/gemini-embedding-001"
     )
 
     if os.path.exists(db_path):
