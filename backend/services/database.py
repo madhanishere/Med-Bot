@@ -14,13 +14,11 @@ else:
     if DATABASE_URL.startswith("postgres://"):
         DATABASE_URL = DATABASE_URL.replace("postgres://", "postgresql://", 1)
         
-    # psycopg2 doesn't recognize the pgbouncer=true connection option
-    if "?pgbouncer=true" in DATABASE_URL:
-        DATABASE_URL = DATABASE_URL.replace("?pgbouncer=true", "")
-    if "&pgbouncer=true" in DATABASE_URL:
-        DATABASE_URL = DATABASE_URL.replace("&pgbouncer=true", "")
+    # psycopg2 doesn't recognize Supabase's query parameters like pgbouncer=true
+    if "?" in DATABASE_URL:
+        DATABASE_URL = DATABASE_URL.split("?")[0]
         
-    engine = create_engine(DATABASE_URL)
+    engine = create_engine(DATABASE_URL, pool_pre_ping=True)
 
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 Base = declarative_base()

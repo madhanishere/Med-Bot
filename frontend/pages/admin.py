@@ -208,17 +208,19 @@ if st.session_state.logged_in:
     st.write("Review recent questions asked by users.")
 
     
-    db_path = os.path.join("..", "data", "chat_logs.db")
-
-    if os.path.exists(db_path):
-            conn = sqlite3.connect(db_path)
-            query = "SELECT timestamp, role, question, answer FROM chat_logs ORDER BY timestamp DESC"
-            df = pd.read_sql_query(query, conn)
-            conn.close()
-
-            st.dataframe(df, use_container_width=True, hide_index=True, height=400)
-    else:
-            st.info("No chat logs found")    
+    try:
+        response = requests.get("https://med-bot-vsmf.onrender.com/logs")
+        if response.status_code == 200:
+            logs = response.json()
+            if logs:
+                df = pd.DataFrame(logs)
+                st.dataframe(df, use_container_width=True, hide_index=True, height=400)
+            else:
+                st.info("No chat logs found.")
+        else:
+            st.error("Failed to fetch logs from server.")
+    except Exception as e:
+        st.error(f"Cannot connect to server to fetch logs: {e}")
 
 if st.session_state.logged_in:
 
