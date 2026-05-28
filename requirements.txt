@@ -11,3 +11,4 @@ streamlit==1.39.0
 requests==2.33.1
 pandas==2.3.3
 python-multipart==0.0.27
+psycopg2-binary==2.9.9
